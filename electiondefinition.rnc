@@ -1,0 +1,65 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+grammar {
+start = element ElectionDefinition { election-definition-content }
+
+election-definition-content =
+    element CandidateContest { candidate-contest-content } *
+    & element BallotMeasureContest { ballot-measure-contest-content } *
+    & element Party { party-content } *
+    & element ReportingUnit { reporting-unit-content } *
+    & element ReportingDevice { reporting-device-content } *
+    & element BallotStyle { ballotstyle-content } *
+    
+candidate-contest-content =
+    attribute id { xsd:ID },
+    attribute label { text },
+    element Candidate { candidate-content } +
+    
+ballot-measure-contest-content =
+    attribute id { xsd:ID },
+    attribute label { text },
+    element description { text }
+    
+candidate-content = 
+    attribute id { xsd:ID },
+    attribute label { text },
+    attribute party { xsd:IDREF },
+    element name { name-content }
+    
+reporting-unit-content = 
+    attribute id {xsd:ID},
+    attribute label { text },
+    element Name { name-content },
+    element Type { text }
+    
+reporting-device-content =
+    attribute id { xsd:ID },
+    attribute label { text },
+    element DeviceClass {
+        element Manufacturer { text },
+        element Model { text },
+        element Type { text }
+    }
+
+name-content = text
+
+party-content = 
+    attribute id { xsd:ID },
+    attribute label { text },
+    element name { text }
+
+ballotstyle-content =
+    attribute label { text },
+    element GpUnitIds { gpunit-ids-content },
+    element Section { section-content } +
+    
+gpunit-ids-content =
+    attribute ids { xsd:IDREFS }
+    
+section-content =
+    element Header { text },
+    element ContestIds { contest-ids-content } +
+    
+contest-ids-content =  attribute ids { xsd:IDREFS }
+    
+}
