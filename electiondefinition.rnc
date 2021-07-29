@@ -3,7 +3,11 @@ grammar {
 start = element ElectionDefinition { election-definition-content }
 
 election-definition-content =
-    element CandidateContest { candidate-contest-content } *
+    element Name { text }
+    & element Type { text }
+    & element StartDate { text}
+    & element EndDate { text }
+    & element CandidateContest { candidate-contest-content } *
     & element BallotMeasureContest { ballot-measure-contest-content } *
     & element Party { party-content } *
     & element ReportingUnit { reporting-unit-content } *
@@ -12,11 +16,15 @@ election-definition-content =
     
 candidate-contest-content =
     attribute id { xsd:ID },
+    attribute scope { xsd:IDREF },
     attribute label { text },
-    element Candidate { candidate-content } +
+    element Candidate { candidate-content } +,
+    element VoteVariation { text } ?,
+    element VotesAllowed { text } 
     
 ballot-measure-contest-content =
     attribute id { xsd:ID },
+    attribute scope { xsd:IDREF },
     attribute label { text },
     element description { text }
     
@@ -39,7 +47,8 @@ reporting-device-content =
         element Manufacturer { text },
         element Model { text },
         element Type { text }
-    }
+    },
+    element SerialNumber { text }
 
 name-content = text
 
