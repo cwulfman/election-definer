@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
+<ElectionDefinition>
+    <Name>Princeton, Mercer County, New Jersey</Name>
+    <Type>partisan-primary-open</Type>
+    <StartDate>2021-06-08</StartDate>
+    <EndDate>2021-06-08</EndDate>
+    <ReportingUnit id="district_16" label="District 16">
+        <Name>16th Legislative District</Name>
+        <Type>district</Type>
+    </ReportingUnit>
+    <ReportingUnit id="mercer_county" label="Mercer">
+        <Name>Mercer County</Name>
+        <Type>county</Type>
+    </ReportingUnit>
+    <ReportingUnit id="princeton" label="Princeton">
+        <Name>Princeton</Name>
+        <Type>borough</Type>
+    </ReportingUnit>
+    <ReportingUnit id="new_jersey" label="New Jersey">
+        <Name>New Jersey</Name>
+        <Type>state</Type>
+    </ReportingUnit>
+    <Party id="reg_democrat" label="Regular Democrats">
+        <name>Regular Democratic Organization</name>
+    </Party>
+    <Party id="mercer_progressive" label="Mercer Progressive Democrats">
+        <name>Mercer Progressive Democrats</name>
+    </Party>
+    <Party id="democrat_for_people" label="Democrat for the People">
+        <name>Democrat For The People</name>
+    </Party>
+    <Party id="reg_republican" label="Regular Republicans">
+        <name>Regular Republican Organization</name>
+    </Party>
+    <Party id="mnjga" label="Make New Jersey Great Again">
+        <name>Make New Jersey Great Again</name>
+    </Party>
+    <Party id="conservative_republicans" label="Republicans for Conservative Values">
+        <name>Republicans For Conservative Values</name>
+    </Party>
+    <Party id="mercer_republicans" label="Mercer Republicans">
+        <name>Mercer Republicans United</name>
+    </Party>
+    <Party id="nj_republicans" label="New Jersey Republicans">
+        <name>New Jersey Regular Republican Organization</name>
+    </Party>
+    <CandidateContest id="governor" scope="new_jersey" label="Governor">
+        <Candidate id="MurphyP" label="Murphy" party="reg_democrat">
+            <name>Philip Murphy</name>
+        </Candidate>
+        <Candidate id="writein_d1" label="Governor Writein Democrat">
+            <name></name>
+        </Candidate>
+        <Candidate id="CiattarelliJ" label="Ciattarelli" party="reg_republican">
+            <name>Jack Ciattarelli</name>
+        </Candidate>
+        <Candidate id="SinghH" label="Singh" party="mnjga">
+            <name>Hirsh V. Singh</name>
+        </Candidate>
+        <Candidate id="RizzoP" label="Rizzo" party="conservative_republicans">
+            <name>Philip Rizzo</name>
+        </Candidate>
+        <Candidate id="LevineB" label="Levine" party="nj_republicans">
+            <name>Brian D. Levine</name>
+        </Candidate>
+        <Candidate id="writein_r1" label="Governor Writein Republican">
+            <name></name>
+        </Candidate>
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="state_senate" scope="district_16" label="State Senate">
+        <Candidate id="ZwickerA" label="Zwicker" party="reg_democrat">
+            <name>Andrew Zwicker</name>
+        </Candidate>
+        <Candidate id="writein_d2" label="Writein Senate Democrat">
+            <name></name>
+        </Candidate>
+        <Candidate id="PappasM" label="Pappas" party="reg_republican">
+            <name>Michael Pappas</name>
+        </Candidate>
+        <Candidate id="GrantJ" label="Grant" party="mnjga">
+            <name>Jeffrey E. Grant</name>
+        </Candidate>
+        <Candidate id="writein_r2" label="Writein Senate Republican">
+            <name></name>
+        </Candidate>
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="general_assembly" scope="district_16" label="General Assembly">
+        <Candidate id="FreimanR" label="Freiman" party="reg_democrat">
+            <name>Roy Freiman</name>
+        </Candidate>
+        <Candidate id="JafferS" label="Jaffer" party="reg_democrat">
+            <name>Sadaf F. Jaffer</name>
+        </Candidate>
+        <Candidate id="ZwirahnF" label="Zirahn" party="mercer_progressive">
+            <name>Faris Zwirahn</name>
+        </Candidate>
+        <Candidate id="writein_d3" label="Writein General Assembly Democrat">
+            <name></name>
+        </Candidate>
+        <Candidate id="LukacJ" label="Lukac" party="reg_republican">
+            <name>Joseph A. Lukac III</name>
+        </Candidate>
+        <Candidate id="PanicoV" label="Panico" party="reg_republican">
+            <name>Vincent T. Panico</name>
+        </Candidate>
+        <VotesAllowed>2</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="surrogate" scope="mercer_county" label="Surrogate">
+        <Candidate id="GerofskyD" label="Gerofsky" party="reg_democrat">
+            <name>Diane Gerofsky</name>
+        </Candidate>
+        <Candidate id="MilesD" label="Miles" party="reg_republican">
+            <name>Douglas E. Miles</name>
+        </Candidate>
+        <Candidate id="LaRossaR" label="LaRossa" party="mercer_republicans">
+            <name>Richard J. LaRossa</name>
+        </Candidate>
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="county_commissioners" scope="mercer_county" label="Board of County Commissioners">
+        <Candidate id="FrisbyS" label="Frisby" party="reg_democrat">
+            <name>Samuel Frisby</name>
+        </Candidate>
+        <Candidate id="McLaughlinK" label="McLaughlin" party="reg_democrat">
+            <name>Kristin McLaughlin</name>
+        </Candidate>
+        <Candidate id="StokesT" label="Stokes" party="reg_democrat">
+            <name>Terrance Stokes</name>
+        </Candidate>
+        <Candidate id="writein_d5" label="Writein Commissioners Dem [1]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d6" label="Writein Commissioners Dem [2]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d7" label="Writein Commissioners Dem [3]">
+            <name></name>
+        </Candidate>
+        <Candidate id="BalgowanR" label="Balgowan" party="reg_republican">
+            <name>Richard M. Balgowan</name>
+        </Candidate>
+        <Candidate id="ChianeseM" label="Chianese" party="reg_republican">
+            <name>Michael Chianese</name>
+        </Candidate>
+        <Candidate id="KotulaA" label="Katula" party="reg_republican">
+            <name>Andrew J. Kotula, Jr.</name>
+        </Candidate>
+        <Candidate id="StillwellJ" label="Stillwell" party="mercer_republicans">
+            <name></name>
+        </Candidate>
+        <Candidate id="MachevusV" label="Machevus" party="mercer_republicans">
+            <name>Volodymyr "Vlad" Machevus</name>
+        </Candidate>
+        <Candidate id="HurtadoM" label="Hurtado" party="mercer_republicans">
+            <name>Michael F. Hurtado</name>
+        </Candidate>
+        <Candidate id="writein_r5" label="Writein Commissioners Rep [1]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_r6" label="Writein Commissioners Rep [2]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_r7" label="Writein Commissioners Rep [3]">
+            <name></name>
+        </Candidate>    
+        <VotesAllowed>3</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="state_cmte_dem_male" scope="mercer_county" label="Democratic State Committee Male">
+        <Candidate id="ZhangY" label="Zhang" party="reg_democrat">
+            <name>Yingcho "YZ" Zhang</name>
+        </Candidate>
+        <Candidate id="PulitiG" label="Puliti" party="reg_democrat">
+            <name>Gregory Puliti</name>
+        </Candidate>
+        <Candidate id="GangesK" label="Ganges" party="reg_democrat">
+            <name>Kelvin Ganges</name>
+        </Candidate>
+        <Candidate id="writein_d9" label="Writein Dem State Cmte Male [1]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d10" label="Writein Dem State Cmte Male [2]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d11" label="Writein Dem State Cmte Male [3]">
+            <name></name>
+        </Candidate>
+        <VotesAllowed>3</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="state_cmte_dem_female" scope="mercer_county" label="Democratic State Committee Female">
+        <Candidate id="StatonC" label="Staton" party="reg_democrat">
+            <name>Cordelia Staton</name>
+        </Candidate>
+        <Candidate id="RajskiS" label="Rajski" party="reg_democrat">
+            <name>Scarlett Rajski</name>
+        </Candidate>
+        <Candidate id="SandomV" label="Sandom" party="reg_democrat">
+            <name>Vanessa Sandom</name>
+        </Candidate>
+        <Candidate id="WitherspoonE" label="Witherspoon" party="democrat_for_people">
+            <name>Ebony Witherspoon</name>
+        </Candidate>
+        <Candidate id="writein_d12" label="Writein Dem State Cmte Female [1]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d13" label="Writein Dem State Cmte Female [2]">
+            <name></name>
+        </Candidate>
+        <Candidate id="writein_d14" label="Writein Dem State Cmte Female [3]">
+            <name></name>
+        </Candidate>       
+        <VotesAllowed>3</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="state_cmte_rep_male" scope="mercer_county" label="Republican State Committee Male">
+        <Candidate id="FriedD" label="Fried" party="reg_republican">
+            <name>Dave Fried</name>
+        </Candidate>
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="state_cmte_rep_female" scope="mercer_county" label="Republican State Committee Female">
+        <Candidate id="SchirmerI" label="Schirmer" party="reg_republican">
+            <name>Illeana Schirmer</name>
+        </Candidate>
+        <Candidate id="WilliamsJ" label="Williams" party="mercer_republicans">
+            <name>Jennifer Williams</name>
+        </Candidate>
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest id="council" scope="princeton" label="Council">
+        <Candidate id="NiedergangE" label="Niedergang" party="reg_democrat">
+            <name>Eve Niedergang</name>
+        </Candidate>
+        <Candidate id="NewinL" label="Newlin" party="reg_democrat">
+            <name>Leighton Newlin</name>
+        </Candidate>
+        <VotesAllowed>2</VotesAllowed>
+    </CandidateContest>
+</ElectionDefinition>
