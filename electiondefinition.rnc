@@ -31,7 +31,7 @@ ballot-measure-contest-content =
 candidate-content = 
     attribute id { xsd:ID },
     attribute label { text },
-    attribute party { xsd:IDREF },
+    attribute party { xsd:IDREF } ?,
     element name { name-content }
     
 reporting-unit-content = 
