@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
-<ElectionDefinition>
+<?xml-model href="../electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
+<ElectionDefinition type="partisan-primary-open" scope="princeton">
     <Name>Princeton, Mercer County, New Jersey</Name>
-    <Type>partisan-primary-open</Type>
     <StartDate>2021-06-08</StartDate>
     <EndDate>2021-06-08</EndDate>
-    <ReportingUnit id="district_16" label="District 16">
+    <ReportingUnit id="district_16" type="precinct" label="District 16">
         <Name>16th Legislative District</Name>
-        <Type>district</Type>
     </ReportingUnit>
-    <ReportingUnit id="mercer_county" label="Mercer">
-        <Name>Mercer County</Name>
-        <Type>county</Type>
+    <ReportingUnit id="mercer_county" type="county" label="Mercer">
+        <Name>Mercer County</Name>      
     </ReportingUnit>
-    <ReportingUnit id="princeton" label="Princeton">
+    <ReportingUnit id="princeton" type="borough" label="Princeton">
         <Name>Princeton</Name>
-        <Type>borough</Type>
     </ReportingUnit>
-    <ReportingUnit id="new_jersey" label="New Jersey">
+    <ReportingUnit id="new_jersey" type="state" label="New Jersey">
         <Name>New Jersey</Name>
-        <Type>state</Type>
     </ReportingUnit>
     <Party id="reg_democrat" label="Regular Democrats">
         <name>Regular Democratic Organization</name>
@@ -49,9 +44,7 @@
         <Candidate id="MurphyP" label="Murphy" party="reg_democrat">
             <name>Philip Murphy</name>
         </Candidate>
-        <Candidate id="writein_d1" label="Governor Writein Democrat">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_d1" label="Governor Writein Democrat" />
         <Candidate id="CiattarelliJ" label="Ciattarelli" party="reg_republican">
             <name>Jack Ciattarelli</name>
         </Candidate>
@@ -64,27 +57,21 @@
         <Candidate id="LevineB" label="Levine" party="nj_republicans">
             <name>Brian D. Levine</name>
         </Candidate>
-        <Candidate id="writein_r1" label="Governor Writein Republican">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_r1" label="Governor Writein Republican"/>
         <VotesAllowed>1</VotesAllowed>
     </CandidateContest>
     <CandidateContest id="state_senate" scope="district_16" label="State Senate">
         <Candidate id="ZwickerA" label="Zwicker" party="reg_democrat">
             <name>Andrew Zwicker</name>
         </Candidate>
-        <Candidate id="writein_d2" label="Writein Senate Democrat">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_d2" label="Writein Senate Democrat" />        
         <Candidate id="PappasM" label="Pappas" party="reg_republican">
             <name>Michael Pappas</name>
         </Candidate>
         <Candidate id="GrantJ" label="Grant" party="mnjga">
             <name>Jeffrey E. Grant</name>
         </Candidate>
-        <Candidate id="writein_r2" label="Writein Senate Republican">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_r2" label="Writein Senate Republican" />        
         <VotesAllowed>1</VotesAllowed>
     </CandidateContest>
     <CandidateContest id="general_assembly" scope="district_16" label="General Assembly">
@@ -97,9 +84,7 @@
         <Candidate id="ZwirahnF" label="Zirahn" party="mercer_progressive">
             <name>Faris Zwirahn</name>
         </Candidate>
-        <Candidate id="writein_d3" label="Writein General Assembly Democrat">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_d3" label="Writein General Assembly Democrat" />
         <Candidate id="LukacJ" label="Lukac" party="reg_republican">
             <name>Joseph A. Lukac III</name>
         </Candidate>
@@ -130,15 +115,9 @@
         <Candidate id="StokesT" label="Stokes" party="reg_democrat">
             <name>Terrance Stokes</name>
         </Candidate>
-        <Candidate id="writein_d5" label="Writein Commissioners Dem [1]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d6" label="Writein Commissioners Dem [2]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d7" label="Writein Commissioners Dem [3]">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_d5" label="Writein Commissioners Dem [1]" />
+        <Candidate id="writein_d6" label="Writein Commissioners Dem [2]" />
+        <Candidate id="writein_d7" label="Writein Commissioners Dem [3]" />
         <Candidate id="BalgowanR" label="Balgowan" party="reg_republican">
             <name>Richard M. Balgowan</name>
         </Candidate>
@@ -149,7 +128,7 @@
             <name>Andrew J. Kotula, Jr.</name>
         </Candidate>
         <Candidate id="StillwellJ" label="Stillwell" party="mercer_republicans">
-            <name></name>
+            <name>Jane Stillwell</name>
         </Candidate>
         <Candidate id="MachevusV" label="Machevus" party="mercer_republicans">
             <name>Volodymyr "Vlad" Machevus</name>
@@ -157,15 +136,9 @@
         <Candidate id="HurtadoM" label="Hurtado" party="mercer_republicans">
             <name>Michael F. Hurtado</name>
         </Candidate>
-        <Candidate id="writein_r5" label="Writein Commissioners Rep [1]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_r6" label="Writein Commissioners Rep [2]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_r7" label="Writein Commissioners Rep [3]">
-            <name></name>
-        </Candidate>    
+        <Candidate id="writein_r5" label="Writein Commissioners Rep [1]" />
+        <Candidate id="writein_r6" label="Writein Commissioners Rep [2]" />
+        <Candidate id="writein_r7" label="Writein Commissioners Rep [3]" />
         <VotesAllowed>3</VotesAllowed>
     </CandidateContest>
     <CandidateContest id="state_cmte_dem_male" scope="mercer_county" label="Democratic State Committee Male">
@@ -178,15 +151,9 @@
         <Candidate id="GangesK" label="Ganges" party="reg_democrat">
             <name>Kelvin Ganges</name>
         </Candidate>
-        <Candidate id="writein_d9" label="Writein Dem State Cmte Male [1]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d10" label="Writein Dem State Cmte Male [2]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d11" label="Writein Dem State Cmte Male [3]">
-            <name></name>
-        </Candidate>
+        <Candidate id="writein_d9" label="Writein Dem State Cmte Male [1]" />
+        <Candidate id="writein_d10" label="Writein Dem State Cmte Male [2]" />
+        <Candidate id="writein_d11" label="Writein Dem State Cmte Male [3]" />
         <VotesAllowed>3</VotesAllowed>
     </CandidateContest>
     <CandidateContest id="state_cmte_dem_female" scope="mercer_county" label="Democratic State Committee Female">
@@ -202,15 +169,9 @@
         <Candidate id="WitherspoonE" label="Witherspoon" party="democrat_for_people">
             <name>Ebony Witherspoon</name>
         </Candidate>
-        <Candidate id="writein_d12" label="Writein Dem State Cmte Female [1]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d13" label="Writein Dem State Cmte Female [2]">
-            <name></name>
-        </Candidate>
-        <Candidate id="writein_d14" label="Writein Dem State Cmte Female [3]">
-            <name></name>
-        </Candidate>       
+        <Candidate id="writein_d12" label="Writein Dem State Cmte Female [1]" />
+        <Candidate id="writein_d13" label="Writein Dem State Cmte Female [2]" />
+        <Candidate id="writein_d14" label="Writein Dem State Cmte Female [3]" />
         <VotesAllowed>3</VotesAllowed>
     </CandidateContest>
     <CandidateContest id="state_cmte_rep_male" scope="mercer_county" label="Republican State Committee Male">

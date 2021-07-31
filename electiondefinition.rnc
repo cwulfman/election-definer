@@ -4,7 +4,8 @@ start = element ElectionDefinition { election-definition-content }
 
 election-definition-content =
     element Name { text }
-    & element Type { text }
+    & attribute type { election-types  }
+    & attribute scope { xsd:IDREF }
     & element StartDate { text}
     & element EndDate { text }
     & element CandidateContest { candidate-contest-content } *
@@ -14,6 +15,39 @@ election-definition-content =
     & element ReportingDevice { reporting-device-content } *
     & element BallotStyle { ballotstyle-content } *
     
+election-types = "general"|"partisan-primary-closed"|"partisan-primary-open"|"primary"|"runoff"|"special"|"other" 
+
+reporting-unit-types = "ballot batch"
+                        |"ballot style area"
+                        |"borough"
+                        |"city"
+                        |"city council"
+                        |"combined precinct"
+                        |"congressional"
+                        |"county"
+                        |"country"
+                        |"county council"
+                        |"drop box"
+                        |"judicial"
+                        |"municipality"
+                        |"polling-place"
+                        |"precinct"
+                        |"school"
+                        |"special"
+                        |"split precinct"
+                        |"state"
+                        |"state house"
+                        |"state senate"
+                        |"town"
+                        |"township"
+                        |"utility"
+                        |"village"
+                        |"vote center"
+                        |"ward"
+                        |"water"
+                        |"other"
+
+
 candidate-contest-content =
     attribute id { xsd:ID },
     attribute scope { xsd:IDREF },
@@ -32,13 +66,13 @@ candidate-content =
     attribute id { xsd:ID },
     attribute label { text },
     attribute party { xsd:IDREF } ?,
-    element name { name-content }
+    element name { name-content } ?
     
 reporting-unit-content = 
     attribute id {xsd:ID},
+    attribute type { reporting-unit-types },
     attribute label { text },
-    element Name { name-content },
-    element Type { text }
+    element Name { name-content }
     
 reporting-device-content =
     attribute id { xsd:ID },
