@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://itl.nist.gov/ns/voting/1500-100/v2 ../../schemas/nist-edf-v2_xmlschema.xsd"
-    xmlns="http://itl.nist.gov/ns/voting/1500-100/v2" exclude-result-prefixes="xs" version="2.0">
+    xmlns="http://itl.nist.gov/ns/voting/1500-100/v2" exclude-result-prefixes="xs" version="1.0">
     <xsl:output indent="yes"/>
 
     <xsl:template match="/">
