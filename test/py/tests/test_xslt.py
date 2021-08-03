@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 
 import lxml.etree
 
@@ -43,4 +44,13 @@ def test_transform_examples():
             text = file.read()
         expected = lxml.etree.XML(text)
         actual = xslt(input_).getroot()
-        assert lxml.etree.tostring(actual) == lxml.etree.tostring(expected)
+        expected = lxml.etree.tostring(expected, pretty_print = True)
+        actual = lxml.etree.tostring(actual, pretty_print = True)
+        # Mangle IDs so that the text comparison will work.
+        expected = re.sub(b"idm[0-9]+", b"GENERATED", expected)
+        actual = re.sub(b"idm[0-9]+", b"GENERATED", actual)
+        with Path("~/tmp/scratch/a.txt").expanduser().open("wb") as file:
+            file.write(expected)
+        with Path("~/tmp/scratch/b.txt").expanduser().open("wb") as file:
+            file.write(actual)
+        assert actual == expected

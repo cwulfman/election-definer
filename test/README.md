@@ -41,3 +41,19 @@ Tests are named as follows:
   is useful
 - `{in,out}` pairs inputs with expected outputs.
 
+## Notes
+
+### Comparing XML elements in tests
+
+- Comparisons of XML trees are done with strings. LXML doesn't provide a single 
+  element-wise comparison and writing one for these tests is work for no real benefit.
+    - **Note**: LXML guarantees that attributes will be printed in sorted order!
+      No such guarantee is made by XML or by other XML processing libraries.
+      Again, cross that bridge if we come to it, otherwise it's good enough.
+
+### Mangling ObjectIDs
+
+- The XSL stylesheet generates `ObjectId`s using XSLT's `generate-id` function.
+  The generated IDs don't match the originals making a straight up string comparison
+  fail. Mangling the strings is the simplest solution. If this breaks further tests
+  look into alternate solutions.
