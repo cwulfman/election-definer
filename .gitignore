@@ -1,0 +1,12 @@
+/.local
+
+# Python
+
+*.pyc
+__pycache__
+.pytest_cache
+
+*.dist-info
+*.egg-info
+venv
+.venv
