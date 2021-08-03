@@ -1,0 +1,927 @@
+<?xml version="1.0"?>
+<ElectionReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://itl.nist.gov/ns/voting/1500-100/v2" xsi:schemaLocation="http://itl.nist.gov/ns/voting/1500-100/v2 ../NIST_V2_election_results_reporting.xsd">
+  <Election>
+    <Candidate ObjectId="MurphyP">
+      <BallotName>
+        <Text Language="en">Philip Murphy</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d1">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="CiattarelliJ">
+      <BallotName>
+        <Text Language="en">Jack Ciattarelli</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="SinghH">
+      <BallotName>
+        <Text Language="en">Hirsh V. Singh</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="RizzoP">
+      <BallotName>
+        <Text Language="en">Philip Rizzo</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="LevineB">
+      <BallotName>
+        <Text Language="en">Brian D. Levine</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_r1">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="ZwickerA">
+      <BallotName>
+        <Text Language="en">Andrew Zwicker</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d2">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="PappasM">
+      <BallotName>
+        <Text Language="en">Michael Pappas</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="GrantJ">
+      <BallotName>
+        <Text Language="en">Jeffrey E. Grant</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_r2">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="FreimanR">
+      <BallotName>
+        <Text Language="en">Roy Freiman</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="JafferS">
+      <BallotName>
+        <Text Language="en">Sadaf F. Jaffer</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="ZwirahnF">
+      <BallotName>
+        <Text Language="en">Faris Zwirahn</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d3">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="LukacJ">
+      <BallotName>
+        <Text Language="en">Joseph A. Lukac III</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="PanicoV">
+      <BallotName>
+        <Text Language="en">Vincent T. Panico</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="GerofskyD">
+      <BallotName>
+        <Text Language="en">Diane Gerofsky</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="MilesD">
+      <BallotName>
+        <Text Language="en">Douglas E. Miles</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="LaRossaR">
+      <BallotName>
+        <Text Language="en">Richard J. LaRossa</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="FrisbyS">
+      <BallotName>
+        <Text Language="en">Samuel Frisby</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="McLaughlinK">
+      <BallotName>
+        <Text Language="en">Kristin McLaughlin</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="StokesT">
+      <BallotName>
+        <Text Language="en">Terrance Stokes</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d5">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d6">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d7">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="BalgowanR">
+      <BallotName>
+        <Text Language="en">Richard M. Balgowan</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="ChianeseM">
+      <BallotName>
+        <Text Language="en">Michael Chianese</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="KotulaA">
+      <BallotName>
+        <Text Language="en">Andrew J. Kotula, Jr.</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="StillwellJ">
+      <BallotName>
+        <Text Language="en">Jane Stillwell</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="MachevusV">
+      <BallotName>
+        <Text Language="en">Volodymyr "Vlad" Machevus</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="HurtadoM">
+      <BallotName>
+        <Text Language="en">Michael F. Hurtado</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_r5">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_r6">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_r7">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="ZhangY">
+      <BallotName>
+        <Text Language="en">Yingcho "YZ" Zhang</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="PulitiG">
+      <BallotName>
+        <Text Language="en">Gregory Puliti</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="GangesK">
+      <BallotName>
+        <Text Language="en">Kelvin Ganges</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d9">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d10">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d11">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="StatonC">
+      <BallotName>
+        <Text Language="en">Cordelia Staton</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="RajskiS">
+      <BallotName>
+        <Text Language="en">Scarlett Rajski</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="SandomV">
+      <BallotName>
+        <Text Language="en">Vanessa Sandom</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="WitherspoonE">
+      <BallotName>
+        <Text Language="en">Ebony Witherspoon</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d12">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d13">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_d14">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="FriedD">
+      <BallotName>
+        <Text Language="en">Dave Fried</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="SchirmerI">
+      <BallotName>
+        <Text Language="en">Illeana Schirmer</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="WilliamsJ">
+      <BallotName>
+        <Text Language="en">Jennifer Williams</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="NiedergangE">
+      <BallotName>
+        <Text Language="en">Eve Niedergang</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="NewinL">
+      <BallotName>
+        <Text Language="en">Leighton Newlin</Text>
+      </BallotName>
+    </Candidate>
+    <Contest xsi:type="CandidateContest" ObjectId="governor">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm30">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>MurphyP</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm32">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>writein_d1</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm33">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>CiattarelliJ</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm35">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>SinghH</CandidateIds>
+        <EndorsementPartyIds>mnjga</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm37">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>RizzoP</CandidateIds>
+        <EndorsementPartyIds>conservative_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm39">
+        <SequenceOrder>6</SequenceOrder>
+        <CandidateIds>LevineB</CandidateIds>
+        <EndorsementPartyIds>nj_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm41">
+        <SequenceOrder>7</SequenceOrder>
+        <CandidateIds>writein_r1</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>new_jersey</ElectionDistrictId>
+      <Name>Governor</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="state_senate">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm44">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>ZwickerA</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm46">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>writein_d2</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm47">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>PappasM</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm49">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>GrantJ</CandidateIds>
+        <EndorsementPartyIds>mnjga</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm51">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>writein_r2</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>district_16</ElectionDistrictId>
+      <Name>State Senate</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="general_assembly">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm54">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>FreimanR</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm56">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>JafferS</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm58">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>ZwirahnF</CandidateIds>
+        <EndorsementPartyIds>mercer_progressive</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm60">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>writein_d3</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm61">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>LukacJ</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm63">
+        <SequenceOrder>6</SequenceOrder>
+        <CandidateIds>PanicoV</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>district_16</ElectionDistrictId>
+      <Name>General Assembly</Name>
+      <VotesAllowed>2</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="surrogate">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm67">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>GerofskyD</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm69">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>MilesD</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm71">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>LaRossaR</CandidateIds>
+        <EndorsementPartyIds>mercer_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Surrogate</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="county_commissioners">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm75">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>FrisbyS</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm77">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>McLaughlinK</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm79">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>StokesT</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm81">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>writein_d5</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm82">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>writein_d6</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm83">
+        <SequenceOrder>6</SequenceOrder>
+        <CandidateIds>writein_d7</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm84">
+        <SequenceOrder>7</SequenceOrder>
+        <CandidateIds>BalgowanR</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm86">
+        <SequenceOrder>8</SequenceOrder>
+        <CandidateIds>ChianeseM</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm88">
+        <SequenceOrder>9</SequenceOrder>
+        <CandidateIds>KotulaA</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm90">
+        <SequenceOrder>10</SequenceOrder>
+        <CandidateIds>StillwellJ</CandidateIds>
+        <EndorsementPartyIds>mercer_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm92">
+        <SequenceOrder>11</SequenceOrder>
+        <CandidateIds>MachevusV</CandidateIds>
+        <EndorsementPartyIds>mercer_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm94">
+        <SequenceOrder>12</SequenceOrder>
+        <CandidateIds>HurtadoM</CandidateIds>
+        <EndorsementPartyIds>mercer_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm96">
+        <SequenceOrder>13</SequenceOrder>
+        <CandidateIds>writein_r5</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm97">
+        <SequenceOrder>14</SequenceOrder>
+        <CandidateIds>writein_r6</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm98">
+        <SequenceOrder>15</SequenceOrder>
+        <CandidateIds>writein_r7</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Board of County Commissioners</Name>
+      <VotesAllowed>3</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="state_cmte_dem_male">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm101">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>ZhangY</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm103">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>PulitiG</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm105">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>GangesK</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm107">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>writein_d9</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm108">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>writein_d10</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm109">
+        <SequenceOrder>6</SequenceOrder>
+        <CandidateIds>writein_d11</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Democratic State Committee Male</Name>
+      <VotesAllowed>3</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="state_cmte_dem_female">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm112">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>StatonC</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm114">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>RajskiS</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm116">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>SandomV</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm118">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>WitherspoonE</CandidateIds>
+        <EndorsementPartyIds>democrat_for_people</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm120">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>writein_d12</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm121">
+        <SequenceOrder>6</SequenceOrder>
+        <CandidateIds>writein_d13</CandidateIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm122">
+        <SequenceOrder>7</SequenceOrder>
+        <CandidateIds>writein_d14</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Democratic State Committee Female</Name>
+      <VotesAllowed>3</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="state_cmte_rep_male">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm125">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>FriedD</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Republican State Committee Male</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="state_cmte_rep_female">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm129">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>SchirmerI</CandidateIds>
+        <EndorsementPartyIds>reg_republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm131">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>WilliamsJ</CandidateIds>
+        <EndorsementPartyIds>mercer_republicans</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>mercer_county</ElectionDistrictId>
+      <Name>Republican State Committee Female</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="council">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm135">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>NiedergangE</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm137">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>NewinL</CandidateIds>
+        <EndorsementPartyIds>reg_democrat</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>princeton</ElectionDistrictId>
+      <Name>Council</Name>
+      <VotesAllowed>2</VotesAllowed>
+    </Contest>
+    <ElectionScopeId>princeton</ElectionScopeId>
+    <Name>
+      <Text Language="en">Princeton, Mercer County, New Jersey</Text>
+    </Name>
+    <StartDate>2021-06-08</StartDate>
+    <EndDate>2021-06-08</EndDate>
+    <Type>partisan-primary-open</Type>
+  </Election>
+  <Format>summary-contest</Format>
+  <GeneratedDate>2018-01-29T00:00:00Z</GeneratedDate>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="district_16">
+    <Name>
+      <Text Language="en">16th Legislative District</Text>
+    </Name>
+    <Type>precinct</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="mercer_county">
+    <Name>
+      <Text Language="en">Mercer County</Text>
+    </Name>
+    <Type>county</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="princeton">
+    <Name>
+      <Text Language="en">Princeton</Text>
+    </Name>
+    <Type>borough</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="new_jersey">
+    <Name>
+      <Text Language="en">New Jersey</Text>
+    </Name>
+    <Type>state</Type>
+  </GpUnit>
+  <Issuer>State</Issuer>
+  <IssuerAbbreviation>US</IssuerAbbreviation>
+  <Party ObjectId="reg_democrat">
+    <Name>
+      <Text Language="en">Regular Democratic Organization</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="mercer_progressive">
+    <Name>
+      <Text Language="en">Mercer Progressive Democrats</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="democrat_for_people">
+    <Name>
+      <Text Language="en">Democrat For The People</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="reg_republican">
+    <Name>
+      <Text Language="en">Regular Republican Organization</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="mnjga">
+    <Name>
+      <Text Language="en">Make New Jersey Great Again</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="conservative_republicans">
+    <Name>
+      <Text Language="en">Republicans For Conservative Values</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="mercer_republicans">
+    <Name>
+      <Text Language="en">Mercer Republicans United</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="nj_republicans">
+    <Name>
+      <Text Language="en">New Jersey Regular Republican Organization</Text>
+    </Name>
+  </Party>
+  <Person ObjectId="idm30">
+    <FullName>
+      <Text Language="en">Philip Murphy</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm32">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm33">
+    <FullName>
+      <Text Language="en">Jack Ciattarelli</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm35">
+    <FullName>
+      <Text Language="en">Hirsh V. Singh</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm37">
+    <FullName>
+      <Text Language="en">Philip Rizzo</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm39">
+    <FullName>
+      <Text Language="en">Brian D. Levine</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm41">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm44">
+    <FullName>
+      <Text Language="en">Andrew Zwicker</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm46">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm47">
+    <FullName>
+      <Text Language="en">Michael Pappas</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm49">
+    <FullName>
+      <Text Language="en">Jeffrey E. Grant</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm51">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm54">
+    <FullName>
+      <Text Language="en">Roy Freiman</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm56">
+    <FullName>
+      <Text Language="en">Sadaf F. Jaffer</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm58">
+    <FullName>
+      <Text Language="en">Faris Zwirahn</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm60">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm61">
+    <FullName>
+      <Text Language="en">Joseph A. Lukac III</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm63">
+    <FullName>
+      <Text Language="en">Vincent T. Panico</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm67">
+    <FullName>
+      <Text Language="en">Diane Gerofsky</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm69">
+    <FullName>
+      <Text Language="en">Douglas E. Miles</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm71">
+    <FullName>
+      <Text Language="en">Richard J. LaRossa</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm75">
+    <FullName>
+      <Text Language="en">Samuel Frisby</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm77">
+    <FullName>
+      <Text Language="en">Kristin McLaughlin</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm79">
+    <FullName>
+      <Text Language="en">Terrance Stokes</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm81">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm82">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm83">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm84">
+    <FullName>
+      <Text Language="en">Richard M. Balgowan</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm86">
+    <FullName>
+      <Text Language="en">Michael Chianese</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm88">
+    <FullName>
+      <Text Language="en">Andrew J. Kotula, Jr.</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm90">
+    <FullName>
+      <Text Language="en">Jane Stillwell</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm92">
+    <FullName>
+      <Text Language="en">Volodymyr "Vlad" Machevus</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm94">
+    <FullName>
+      <Text Language="en">Michael F. Hurtado</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm96">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm97">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm98">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm101">
+    <FullName>
+      <Text Language="en">Yingcho "YZ" Zhang</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm103">
+    <FullName>
+      <Text Language="en">Gregory Puliti</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm105">
+    <FullName>
+      <Text Language="en">Kelvin Ganges</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm107">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm108">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm109">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm112">
+    <FullName>
+      <Text Language="en">Cordelia Staton</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm114">
+    <FullName>
+      <Text Language="en">Scarlett Rajski</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm116">
+    <FullName>
+      <Text Language="en">Vanessa Sandom</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm118">
+    <FullName>
+      <Text Language="en">Ebony Witherspoon</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm120">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm121">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm122">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm125">
+    <FullName>
+      <Text Language="en">Dave Fried</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm129">
+    <FullName>
+      <Text Language="en">Illeana Schirmer</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm131">
+    <FullName>
+      <Text Language="en">Jennifer Williams</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm135">
+    <FullName>
+      <Text Language="en">Eve Niedergang</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm137">
+    <FullName>
+      <Text Language="en">Leighton Newlin</Text>
+    </FullName>
+  </Person>
+  <SequenceStart>1</SequenceStart>
+  <SequenceEnd>1</SequenceEnd>
+  <Status>pre-election</Status>
+  <VendorApplicationId>ttv</VendorApplicationId>
+</ElectionReport>

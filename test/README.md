@@ -1,4 +1,4 @@
-# Testing the election definer.
+# Testing the election definer
 
 ## Setup
 
