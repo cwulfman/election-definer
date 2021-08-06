@@ -10,9 +10,19 @@ from tests.conftest import (
 RNG_FILE = Paths.DATA / "electiondefinition.rng"
 
 
-def test_validate_election_definitions():
+@pytest.fixture(params = load_xml_documents(Paths.INPUTS, "*_in.xml"))
+def xml_input_document(request):
+    document = request.param
+    return document
+
+
+@pytest.fixture
+def rng_schema():
+    file = RNG_FILE
+    schema = load_relaxng_schema(file)
+    return schema
+
+
+def test_validate_election_definitions(rng_schema, xml_input_document):
     """Test that simplified election definitions validate under the RNG schema."""
-    rng_schema = load_relaxng_schema(RNG_FILE)
-    input_documents = load_xml_documents(Paths.INPUTS, "*.in.xml")
-    for input_document in input_documents:
-        assert rng_schema.validate(input_document)
+    assert rng_schema.validate(xml_input_document)
