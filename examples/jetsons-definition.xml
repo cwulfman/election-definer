@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
-<ElectionDefinition>
+<?xml-model href="../electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
+<ElectionDefinition scope="gadget-county" type="general">
     <Name>Gadget County Elections</Name>
-    <Type>general</Type>
     <StartDate>2030-06-01</StartDate>
     <EndDate>2030-06-15</EndDate>
     <CandidateContest id="contest1" scope="orbit-city-precinct" label="Mayor of Orbit City">
@@ -18,17 +17,14 @@
     <BallotMeasureContest id="ballotmeasure1" scope="gadget-county" label="New Arena Question">
         <description>Shall we do this thing?</description>
     </BallotMeasureContest>
-    <ReportingUnit id="gadget-county" label="Gadget County">
+    <ReportingUnit id="gadget-county" type="county" label="Gadget County">
         <Name>Gadget County</Name>
-        <Type>County</Type>
     </ReportingUnit>
-    <ReportingUnit id="bedrock-precinct" label="Bedrock">
+    <ReportingUnit id="bedrock-precinct" type="precinct"  label="Bedrock">
         <Name>Bedrock Precinct</Name>
-        <Type>Precinct</Type>
     </ReportingUnit>
-    <ReportingUnit id="orbit-city-precinct" label="Orbit City">
+    <ReportingUnit id="orbit-city-precinct" type="precinct" label="Orbit City">
         <Name>Orbit City</Name>
-        <Type>Precinct</Type>
     </ReportingUnit>
     <ReportingDevice id="ballot-marker-1" label="Ballot Marker 1">
         <DeviceClass>
