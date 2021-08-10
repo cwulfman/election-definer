@@ -5655,8 +5655,8 @@
     <Name>
       <Text Language="en">General Election</Text>
     </Name>
-    <StartDate>11-3-2020</StartDate>
-    <EndDate>11-3-2020</EndDate>
+    <StartDate>2020-11-03</StartDate>
+    <EndDate>2020-11-03</EndDate>
     <Type>general</Type>
   </Election>
   <Format>summary-contest</Format>
@@ -6067,1483 +6067,1483 @@
     <Name>
       <Text Language="en">100th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-101st_Legislative_District">
     <Name>
       <Text Language="en">101st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-102nd_Legislative_District">
     <Name>
       <Text Language="en">102nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-103rd_Legislative_District">
     <Name>
       <Text Language="en">103rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-104th_Legislative_District">
     <Name>
       <Text Language="en">104th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-105th_Legislative_District">
     <Name>
       <Text Language="en">105th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-106th_Legislative_District">
     <Name>
       <Text Language="en">106th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-107th_Legislative_District">
     <Name>
       <Text Language="en">107th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-108th_Legislative_District">
     <Name>
       <Text Language="en">108th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-109th_Legislative_District">
     <Name>
       <Text Language="en">109th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-10th_Congressional_District">
     <Name>
       <Text Language="en">10th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-10th_Legislative_District">
     <Name>
       <Text Language="en">10th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-110th_Legislative_District">
     <Name>
       <Text Language="en">110th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-111th_Legislative_District">
     <Name>
       <Text Language="en">111th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-112th_Legislative_District">
     <Name>
       <Text Language="en">112th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-113th_Legislative_District">
     <Name>
       <Text Language="en">113th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-114th_Legislative_District">
     <Name>
       <Text Language="en">114th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-115th_Legislative_District">
     <Name>
       <Text Language="en">115th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-116th_Legislative_District">
     <Name>
       <Text Language="en">116th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-117th_Legislative_District">
     <Name>
       <Text Language="en">117th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-118th_Legislative_District">
     <Name>
       <Text Language="en">118th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-119th_Legislative_District">
     <Name>
       <Text Language="en">119th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-11th_Congressional_District">
     <Name>
       <Text Language="en">11th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-11th_Legislative_District">
     <Name>
       <Text Language="en">11th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-11th_Senatorial_District">
     <Name>
       <Text Language="en">11th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-120th_Legislative_District">
     <Name>
       <Text Language="en">120th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-121st_Legislative_District">
     <Name>
       <Text Language="en">121st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-122nd_Legislative_District">
     <Name>
       <Text Language="en">122nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-123rd_Legislative_District">
     <Name>
       <Text Language="en">123rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-124th_Legislative_District">
     <Name>
       <Text Language="en">124th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-125th_Legislative_District">
     <Name>
       <Text Language="en">125th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-126th_Legislative_District">
     <Name>
       <Text Language="en">126th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-127th_Legislative_District">
     <Name>
       <Text Language="en">127th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-128th_Legislative_District">
     <Name>
       <Text Language="en">128th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-129th_Legislative_District">
     <Name>
       <Text Language="en">129th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-12th_Congressional_District">
     <Name>
       <Text Language="en">12th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-12th_Legislative_District">
     <Name>
       <Text Language="en">12th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-130th_Legislative_District">
     <Name>
       <Text Language="en">130th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-131st_Legislative_District">
     <Name>
       <Text Language="en">131st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-132nd_Legislative_District">
     <Name>
       <Text Language="en">132nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-133rd_Legislative_District">
     <Name>
       <Text Language="en">133rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-134th_Legislative_District">
     <Name>
       <Text Language="en">134th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-135th_Legislative_District">
     <Name>
       <Text Language="en">135th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-136th_Legislative_District">
     <Name>
       <Text Language="en">136th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-137th_Legislative_District">
     <Name>
       <Text Language="en">137th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-138th_Legislative_District">
     <Name>
       <Text Language="en">138th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-139th_Legislative_District">
     <Name>
       <Text Language="en">139th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-13th_Congressional_District">
     <Name>
       <Text Language="en">13th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-13th_Legislative_District">
     <Name>
       <Text Language="en">13th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-13th_Senatorial_District">
     <Name>
       <Text Language="en">13th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-140th_Legislative_District">
     <Name>
       <Text Language="en">140th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-141st_Legislative_District">
     <Name>
       <Text Language="en">141st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-142nd_Legislative_District">
     <Name>
       <Text Language="en">142nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-143rd_Legislative_District">
     <Name>
       <Text Language="en">143rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-144th_Legislative_District">
     <Name>
       <Text Language="en">144th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-145th_Legislative_District">
     <Name>
       <Text Language="en">145th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-146th_Legislative_District">
     <Name>
       <Text Language="en">146th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-147th_Legislative_District">
     <Name>
       <Text Language="en">147th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-148th_Legislative_District">
     <Name>
       <Text Language="en">148th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-149th_Legislative_District">
     <Name>
       <Text Language="en">149th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-14th_Congressional_District">
     <Name>
       <Text Language="en">14th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-14th_Legislative_District">
     <Name>
       <Text Language="en">14th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-150th_Legislative_District">
     <Name>
       <Text Language="en">150th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-151st_Legislative_District">
     <Name>
       <Text Language="en">151st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-152nd_Legislative_District">
     <Name>
       <Text Language="en">152nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-153rd_Legislative_District">
     <Name>
       <Text Language="en">153rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-154th_Legislative_District">
     <Name>
       <Text Language="en">154th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-155th_Legislative_District">
     <Name>
       <Text Language="en">155th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-156th_Legislative_District">
     <Name>
       <Text Language="en">156th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-157th_Legislative_District">
     <Name>
       <Text Language="en">157th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-158th_Legislative_District">
     <Name>
       <Text Language="en">158th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-159th_Legislative_District">
     <Name>
       <Text Language="en">159th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-15th_Congressional_District">
     <Name>
       <Text Language="en">15th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-15th_Legislative_District">
     <Name>
       <Text Language="en">15th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-15th_Senatorial_District">
     <Name>
       <Text Language="en">15th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-160th_Legislative_District">
     <Name>
       <Text Language="en">160th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-161st_Legislative_District">
     <Name>
       <Text Language="en">161st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-162nd_Legislative_District">
     <Name>
       <Text Language="en">162nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-163rd_Legislative_District">
     <Name>
       <Text Language="en">163rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-164th_Legislative_District">
     <Name>
       <Text Language="en">164th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-165th_Legislative_District">
     <Name>
       <Text Language="en">165th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-166th_Legislative_District">
     <Name>
       <Text Language="en">166th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-167th_Legislative_District">
     <Name>
       <Text Language="en">167th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-168th_Legislative_District">
     <Name>
       <Text Language="en">168th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-169th_Legislative_District">
     <Name>
       <Text Language="en">169th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-16th_Congressional_District">
     <Name>
       <Text Language="en">16th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-16th_Legislative_District">
     <Name>
       <Text Language="en">16th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-170th_Legislative_District">
     <Name>
       <Text Language="en">170th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-171st_Legislative_District">
     <Name>
       <Text Language="en">171st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-172nd_Legislative_District">
     <Name>
       <Text Language="en">172nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-173rd_Legislative_District">
     <Name>
       <Text Language="en">173rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-174th_Legislative_District">
     <Name>
       <Text Language="en">174th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-175th_Legislative_District">
     <Name>
       <Text Language="en">175th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-176th_Legislative_District">
     <Name>
       <Text Language="en">176th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-177th_Legislative_District">
     <Name>
       <Text Language="en">177th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-178th_Legislative_District">
     <Name>
       <Text Language="en">178th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-179th_Legislative_District">
     <Name>
       <Text Language="en">179th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-17th_Congressional_District">
     <Name>
       <Text Language="en">17th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-17th_Legislative_District">
     <Name>
       <Text Language="en">17th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-17th_Senatorial_District">
     <Name>
       <Text Language="en">17th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-180th_Legislative_District">
     <Name>
       <Text Language="en">180th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-181st_Legislative_District">
     <Name>
       <Text Language="en">181st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-182nd_Legislative_District">
     <Name>
       <Text Language="en">182nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-183rd_Legislative_District">
     <Name>
       <Text Language="en">183rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-184th_Legislative_District">
     <Name>
       <Text Language="en">184th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-185th_Legislative_District">
     <Name>
       <Text Language="en">185th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-186th_Legislative_District">
     <Name>
       <Text Language="en">186th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-187th_Legislative_District">
     <Name>
       <Text Language="en">187th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-188th_Legislative_District">
     <Name>
       <Text Language="en">188th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-189th_Legislative_District">
     <Name>
       <Text Language="en">189th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-18th_Congressional_District">
     <Name>
       <Text Language="en">18th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-18th_Legislative_District">
     <Name>
       <Text Language="en">18th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-190th_Legislative_District">
     <Name>
       <Text Language="en">190th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-191st_Legislative_District">
     <Name>
       <Text Language="en">191st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-192nd_Legislative_District">
     <Name>
       <Text Language="en">192nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-193rd_Legislative_District">
     <Name>
       <Text Language="en">193rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-194th_Legislative_District">
     <Name>
       <Text Language="en">194th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-195th_Legislative_District">
     <Name>
       <Text Language="en">195th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-196th_Legislative_District">
     <Name>
       <Text Language="en">196th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-197th_Legislative_District">
     <Name>
       <Text Language="en">197th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-198th_Legislative_District">
     <Name>
       <Text Language="en">198th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-199th_Legislative_District">
     <Name>
       <Text Language="en">199th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-19th_Legislative_District">
     <Name>
       <Text Language="en">19th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-19th_Senatorial_District">
     <Name>
       <Text Language="en">19th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-1st_Congressional_District">
     <Name>
       <Text Language="en">1st Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-1st_Legislative_District">
     <Name>
       <Text Language="en">1st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-1st_Senatorial_District">
     <Name>
       <Text Language="en">1st Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-200th_Legislative_District">
     <Name>
       <Text Language="en">200th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-201st_Legislative_District">
     <Name>
       <Text Language="en">201st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-202nd_Legislative_District">
     <Name>
       <Text Language="en">202nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-203rd_Legislative_District">
     <Name>
       <Text Language="en">203rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-20th_Legislative_District">
     <Name>
       <Text Language="en">20th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-21st_Legislative_District">
     <Name>
       <Text Language="en">21st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-21st_Senatorial_District">
     <Name>
       <Text Language="en">21st Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-22nd_Legislative_District">
     <Name>
       <Text Language="en">22nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-23rd_Legislative_District">
     <Name>
       <Text Language="en">23rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-23rd_Senatorial_District">
     <Name>
       <Text Language="en">23rd Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-24th_Legislative_District">
     <Name>
       <Text Language="en">24th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-25th_Legislative_District">
     <Name>
       <Text Language="en">25th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-25th_Senatorial_District">
     <Name>
       <Text Language="en">25th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-26th_Legislative_District">
     <Name>
       <Text Language="en">26th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-27th_Legislative_District">
     <Name>
       <Text Language="en">27th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-27th_Senatorial_District">
     <Name>
       <Text Language="en">27th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-28th_Legislative_District">
     <Name>
       <Text Language="en">28th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-29th_Legislative_District">
     <Name>
       <Text Language="en">29th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-29th_Senatorial_District">
     <Name>
       <Text Language="en">29th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-2nd_Congressional_District">
     <Name>
       <Text Language="en">2nd Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-2nd_Legislative_District">
     <Name>
       <Text Language="en">2nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-30th_Legislative_District">
     <Name>
       <Text Language="en">30th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-31st_Legislative_District">
     <Name>
       <Text Language="en">31st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-31st_Senatorial_District">
     <Name>
       <Text Language="en">31st Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-32nd_Legislative_District">
     <Name>
       <Text Language="en">32nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-33rd_Legislative_District">
     <Name>
       <Text Language="en">33rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-33rd_Senatorial_District">
     <Name>
       <Text Language="en">33rd Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-34th_Legislative_District">
     <Name>
       <Text Language="en">34th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-35th_Legislative_District">
     <Name>
       <Text Language="en">35th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-35th_Senatorial_District">
     <Name>
       <Text Language="en">35th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-36th_Legislative_District">
     <Name>
       <Text Language="en">36th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-37th_Legislative_District">
     <Name>
       <Text Language="en">37th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-37th_Senatorial_District">
     <Name>
       <Text Language="en">37th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-38th_Legislative_District">
     <Name>
       <Text Language="en">38th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-39th_Legislative_District">
     <Name>
       <Text Language="en">39th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-39th_Senatorial_District">
     <Name>
       <Text Language="en">39th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-3rd_Congressional_District">
     <Name>
       <Text Language="en">3rd Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-3rd_Legislative_District">
     <Name>
       <Text Language="en">3rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-3rd_Senatorial_District">
     <Name>
       <Text Language="en">3rd Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-40th_Legislative_District">
     <Name>
       <Text Language="en">40th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-41st_Legislative_District">
     <Name>
       <Text Language="en">41st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-41st_Senatorial_District">
     <Name>
       <Text Language="en">41st Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-42nd_Legislative_District">
     <Name>
       <Text Language="en">42nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-43rd_Legislative_District">
     <Name>
       <Text Language="en">43rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-43rd_Senatorial_District">
     <Name>
       <Text Language="en">43rd Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-44th_Legislative_District">
     <Name>
       <Text Language="en">44th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-45th_Legislative_District">
     <Name>
       <Text Language="en">45th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-45th_Senatorial_District">
     <Name>
       <Text Language="en">45th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-46th_Legislative_District">
     <Name>
       <Text Language="en">46th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-47th_Legislative_District">
     <Name>
       <Text Language="en">47th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-47th_Senatorial_District">
     <Name>
       <Text Language="en">47th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-48th_Legislative_District">
     <Name>
       <Text Language="en">48th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-49th_Legislative_District">
     <Name>
       <Text Language="en">49th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-49th_Senatorial_District">
     <Name>
       <Text Language="en">49th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-4th_Congressional_District">
     <Name>
       <Text Language="en">4th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-4th_Legislative_District">
     <Name>
       <Text Language="en">4th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-50th_Legislative_District">
     <Name>
       <Text Language="en">50th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-51st_Legislative_District">
     <Name>
       <Text Language="en">51st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-52nd_Legislative_District">
     <Name>
       <Text Language="en">52nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-53rd_Legislative_District">
     <Name>
       <Text Language="en">53rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-54th_Legislative_District">
     <Name>
       <Text Language="en">54th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-55th_Legislative_District">
     <Name>
       <Text Language="en">55th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-56th_Legislative_District">
     <Name>
       <Text Language="en">56th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-57th_Legislative_District">
     <Name>
       <Text Language="en">57th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-58th_Legislative_District">
     <Name>
       <Text Language="en">58th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-59th_Legislative_District">
     <Name>
       <Text Language="en">59th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-5th_Congressional_District">
     <Name>
       <Text Language="en">5th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-5th_Legislative_District">
     <Name>
       <Text Language="en">5th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-5th_Senatorial_District">
     <Name>
       <Text Language="en">5th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-60th_Legislative_District">
     <Name>
       <Text Language="en">60th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-61st_Legislative_District">
     <Name>
       <Text Language="en">61st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-62nd_Legislative_District">
     <Name>
       <Text Language="en">62nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-63rd_Legislative_District">
     <Name>
       <Text Language="en">63rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-64th_Legislative_District">
     <Name>
       <Text Language="en">64th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-65th_Legislative_District">
     <Name>
       <Text Language="en">65th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-66th_Legislative_District">
     <Name>
       <Text Language="en">66th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-67th_Legislative_District">
     <Name>
       <Text Language="en">67th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-68th_Legislative_District">
     <Name>
       <Text Language="en">68th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-69th_Legislative_District">
     <Name>
       <Text Language="en">69th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-6th_Congressional_District">
     <Name>
       <Text Language="en">6th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-6th_Legislative_District">
     <Name>
       <Text Language="en">6th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-70th_Legislative_District">
     <Name>
       <Text Language="en">70th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-71st_Legislative_District">
     <Name>
       <Text Language="en">71st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-72nd_Legislative_District">
     <Name>
       <Text Language="en">72nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-73rd_Legislative_District">
     <Name>
       <Text Language="en">73rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-74th_Legislative_District">
     <Name>
       <Text Language="en">74th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-75th_Legislative_District">
     <Name>
       <Text Language="en">75th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-76th_Legislative_District">
     <Name>
       <Text Language="en">76th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-77th_Legislative_District">
     <Name>
       <Text Language="en">77th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-78th_Legislative_District">
     <Name>
       <Text Language="en">78th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-79th_Legislative_District">
     <Name>
       <Text Language="en">79th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-7th_Congressional_District">
     <Name>
       <Text Language="en">7th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-7th_Legislative_District">
     <Name>
       <Text Language="en">7th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-7th_Senatorial_District">
     <Name>
       <Text Language="en">7th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-80th_Legislative_District">
     <Name>
       <Text Language="en">80th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-81st_Legislative_District">
     <Name>
       <Text Language="en">81st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-82nd_Legislative_District">
     <Name>
       <Text Language="en">82nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-83rd_Legislative_District">
     <Name>
       <Text Language="en">83rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-84th_Legislative_District">
     <Name>
       <Text Language="en">84th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-85th_Legislative_District">
     <Name>
       <Text Language="en">85th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-86th_Legislative_District">
     <Name>
       <Text Language="en">86th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-87th_Legislative_District">
     <Name>
       <Text Language="en">87th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-88th_Legislative_District">
     <Name>
       <Text Language="en">88th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-89th_Legislative_District">
     <Name>
       <Text Language="en">89th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-8th_Congressional_District">
     <Name>
       <Text Language="en">8th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-8th_Legislative_District">
     <Name>
       <Text Language="en">8th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-90th_Legislative_District">
     <Name>
       <Text Language="en">90th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-91st_Legislative_District">
     <Name>
       <Text Language="en">91st Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-92nd_Legislative_District">
     <Name>
       <Text Language="en">92nd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-93rd_Legislative_District">
     <Name>
       <Text Language="en">93rd Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-94th_Legislative_District">
     <Name>
       <Text Language="en">94th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-95th_Legislative_District">
     <Name>
       <Text Language="en">95th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-96th_Legislative_District">
     <Name>
       <Text Language="en">96th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-97th_Legislative_District">
     <Name>
       <Text Language="en">97th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-98th_Legislative_District">
     <Name>
       <Text Language="en">98th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-99th_Legislative_District">
     <Name>
       <Text Language="en">99th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-9th_Congressional_District">
     <Name>
       <Text Language="en">9th Congressional District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-9th_Legislative_District">
     <Name>
       <Text Language="en">9th Legislative District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-9th_Senatorial_District">
     <Name>
       <Text Language="en">9th Senatorial District</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <GpUnit xsi:type="ReportingUnit" ObjectId="district-Statewide">
     <Name>
       <Text Language="en">Statewide</Text>
     </Name>
-    <Type>district</Type>
+    <Type>congressional</Type>
   </GpUnit>
   <Issuer>State</Issuer>
   <IssuerAbbreviation>US</IssuerAbbreviation>

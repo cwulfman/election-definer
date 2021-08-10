@@ -74,7 +74,7 @@
     </Name>
     <Type>precinct</Type>
   </GpUnit>
-  <GpUnit xsi:type="ReportingDevice">
+  <GpUnit xsi:type="ReportingDevice" ObjectId="ballot-marker-1">
     <DeviceClass>
       <Manufacturer>Trust the Vote</Manufacturer>
       <Model>git-c3cd6f4f-20210601</Model>

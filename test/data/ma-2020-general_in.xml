@@ -25,7 +25,7 @@
     <ReportingUnit type="town" id="reading" label="Reading">
         <Name>Town of Reading</Name>
     </ReportingUnit>
-    <ReportingUnit type="combined precinct" id="pct2-5" label="Pcts 2-5">
+    <ReportingUnit type="combined-precinct" id="pct2-5" label="Pcts 2-5">
         <Name>Precincts 2-5</Name>
     </ReportingUnit>
     <Party id="democratic" label="Democratic">

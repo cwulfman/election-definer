@@ -255,7 +255,7 @@
     <Name>
       <Text Language="en">Precincts 2-5</Text>
     </Name>
-    <Type>combined precinct</Type>
+    <Type>combined-precinct</Type>
   </GpUnit>
   <Issuer>State</Issuer>
   <IssuerAbbreviation>US</IssuerAbbreviation>

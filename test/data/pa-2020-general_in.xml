@@ -3,8 +3,8 @@
 
 <ElectionDefinition type="general" scope="district-Statewide">
    <Name>General Election</Name>
-   <StartDate>11-3-2020</StartDate>
-   <EndDate>11-3-2020</EndDate>
+   <StartDate>2020-11-03</StartDate>
+   <EndDate>2020-11-03</EndDate>
    <ReportingUnit type="county" id="county-ADAMS" label="ADAMS">
       <Name>ADAMS</Name>
    </ReportingUnit>
@@ -206,1237 +206,1237 @@
    <ReportingUnit type="county" id="county-YORK" label="YORK">
       <Name>YORK</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-100th_Legislative_District"
                   label="100th Legislative District">
       <Name>100th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-101st_Legislative_District"
                   label="101st Legislative District">
       <Name>101st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-102nd_Legislative_District"
                   label="102nd Legislative District">
       <Name>102nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-103rd_Legislative_District"
                   label="103rd Legislative District">
       <Name>103rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-104th_Legislative_District"
                   label="104th Legislative District">
       <Name>104th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-105th_Legislative_District"
                   label="105th Legislative District">
       <Name>105th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-106th_Legislative_District"
                   label="106th Legislative District">
       <Name>106th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-107th_Legislative_District"
                   label="107th Legislative District">
       <Name>107th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-108th_Legislative_District"
                   label="108th Legislative District">
       <Name>108th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-109th_Legislative_District"
                   label="109th Legislative District">
       <Name>109th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-10th_Congressional_District"
                   label="10th Congressional District">
       <Name>10th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-10th_Legislative_District"
                   label="10th Legislative District">
       <Name>10th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-110th_Legislative_District"
                   label="110th Legislative District">
       <Name>110th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-111th_Legislative_District"
                   label="111th Legislative District">
       <Name>111th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-112th_Legislative_District"
                   label="112th Legislative District">
       <Name>112th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-113th_Legislative_District"
                   label="113th Legislative District">
       <Name>113th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-114th_Legislative_District"
                   label="114th Legislative District">
       <Name>114th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-115th_Legislative_District"
                   label="115th Legislative District">
       <Name>115th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-116th_Legislative_District"
                   label="116th Legislative District">
       <Name>116th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-117th_Legislative_District"
                   label="117th Legislative District">
       <Name>117th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-118th_Legislative_District"
                   label="118th Legislative District">
       <Name>118th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-119th_Legislative_District"
                   label="119th Legislative District">
       <Name>119th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-11th_Congressional_District"
                   label="11th Congressional District">
       <Name>11th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-11th_Legislative_District"
                   label="11th Legislative District">
       <Name>11th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-11th_Senatorial_District"
                   label="11th Senatorial District">
       <Name>11th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-120th_Legislative_District"
                   label="120th Legislative District">
       <Name>120th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-121st_Legislative_District"
                   label="121st Legislative District">
       <Name>121st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-122nd_Legislative_District"
                   label="122nd Legislative District">
       <Name>122nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-123rd_Legislative_District"
                   label="123rd Legislative District">
       <Name>123rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-124th_Legislative_District"
                   label="124th Legislative District">
       <Name>124th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-125th_Legislative_District"
                   label="125th Legislative District">
       <Name>125th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-126th_Legislative_District"
                   label="126th Legislative District">
       <Name>126th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-127th_Legislative_District"
                   label="127th Legislative District">
       <Name>127th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-128th_Legislative_District"
                   label="128th Legislative District">
       <Name>128th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-129th_Legislative_District"
                   label="129th Legislative District">
       <Name>129th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-12th_Congressional_District"
                   label="12th Congressional District">
       <Name>12th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-12th_Legislative_District"
                   label="12th Legislative District">
       <Name>12th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-130th_Legislative_District"
                   label="130th Legislative District">
       <Name>130th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-131st_Legislative_District"
                   label="131st Legislative District">
       <Name>131st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-132nd_Legislative_District"
                   label="132nd Legislative District">
       <Name>132nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-133rd_Legislative_District"
                   label="133rd Legislative District">
       <Name>133rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-134th_Legislative_District"
                   label="134th Legislative District">
       <Name>134th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-135th_Legislative_District"
                   label="135th Legislative District">
       <Name>135th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-136th_Legislative_District"
                   label="136th Legislative District">
       <Name>136th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-137th_Legislative_District"
                   label="137th Legislative District">
       <Name>137th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-138th_Legislative_District"
                   label="138th Legislative District">
       <Name>138th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-139th_Legislative_District"
                   label="139th Legislative District">
       <Name>139th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-13th_Congressional_District"
                   label="13th Congressional District">
       <Name>13th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-13th_Legislative_District"
                   label="13th Legislative District">
       <Name>13th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-13th_Senatorial_District"
                   label="13th Senatorial District">
       <Name>13th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-140th_Legislative_District"
                   label="140th Legislative District">
       <Name>140th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-141st_Legislative_District"
                   label="141st Legislative District">
       <Name>141st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-142nd_Legislative_District"
                   label="142nd Legislative District">
       <Name>142nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-143rd_Legislative_District"
                   label="143rd Legislative District">
       <Name>143rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-144th_Legislative_District"
                   label="144th Legislative District">
       <Name>144th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-145th_Legislative_District"
                   label="145th Legislative District">
       <Name>145th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-146th_Legislative_District"
                   label="146th Legislative District">
       <Name>146th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-147th_Legislative_District"
                   label="147th Legislative District">
       <Name>147th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-148th_Legislative_District"
                   label="148th Legislative District">
       <Name>148th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-149th_Legislative_District"
                   label="149th Legislative District">
       <Name>149th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-14th_Congressional_District"
                   label="14th Congressional District">
       <Name>14th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-14th_Legislative_District"
                   label="14th Legislative District">
       <Name>14th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-150th_Legislative_District"
                   label="150th Legislative District">
       <Name>150th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-151st_Legislative_District"
                   label="151st Legislative District">
       <Name>151st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-152nd_Legislative_District"
                   label="152nd Legislative District">
       <Name>152nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-153rd_Legislative_District"
                   label="153rd Legislative District">
       <Name>153rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-154th_Legislative_District"
                   label="154th Legislative District">
       <Name>154th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-155th_Legislative_District"
                   label="155th Legislative District">
       <Name>155th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-156th_Legislative_District"
                   label="156th Legislative District">
       <Name>156th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-157th_Legislative_District"
                   label="157th Legislative District">
       <Name>157th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-158th_Legislative_District"
                   label="158th Legislative District">
       <Name>158th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-159th_Legislative_District"
                   label="159th Legislative District">
       <Name>159th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-15th_Congressional_District"
                   label="15th Congressional District">
       <Name>15th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-15th_Legislative_District"
                   label="15th Legislative District">
       <Name>15th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-15th_Senatorial_District"
                   label="15th Senatorial District">
       <Name>15th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-160th_Legislative_District"
                   label="160th Legislative District">
       <Name>160th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-161st_Legislative_District"
                   label="161st Legislative District">
       <Name>161st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-162nd_Legislative_District"
                   label="162nd Legislative District">
       <Name>162nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-163rd_Legislative_District"
                   label="163rd Legislative District">
       <Name>163rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-164th_Legislative_District"
                   label="164th Legislative District">
       <Name>164th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-165th_Legislative_District"
                   label="165th Legislative District">
       <Name>165th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-166th_Legislative_District"
                   label="166th Legislative District">
       <Name>166th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-167th_Legislative_District"
                   label="167th Legislative District">
       <Name>167th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-168th_Legislative_District"
                   label="168th Legislative District">
       <Name>168th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-169th_Legislative_District"
                   label="169th Legislative District">
       <Name>169th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-16th_Congressional_District"
                   label="16th Congressional District">
       <Name>16th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-16th_Legislative_District"
                   label="16th Legislative District">
       <Name>16th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-170th_Legislative_District"
                   label="170th Legislative District">
       <Name>170th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-171st_Legislative_District"
                   label="171st Legislative District">
       <Name>171st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-172nd_Legislative_District"
                   label="172nd Legislative District">
       <Name>172nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-173rd_Legislative_District"
                   label="173rd Legislative District">
       <Name>173rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-174th_Legislative_District"
                   label="174th Legislative District">
       <Name>174th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-175th_Legislative_District"
                   label="175th Legislative District">
       <Name>175th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-176th_Legislative_District"
                   label="176th Legislative District">
       <Name>176th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-177th_Legislative_District"
                   label="177th Legislative District">
       <Name>177th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-178th_Legislative_District"
                   label="178th Legislative District">
       <Name>178th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-179th_Legislative_District"
                   label="179th Legislative District">
       <Name>179th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-17th_Congressional_District"
                   label="17th Congressional District">
       <Name>17th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-17th_Legislative_District"
                   label="17th Legislative District">
       <Name>17th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-17th_Senatorial_District"
                   label="17th Senatorial District">
       <Name>17th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-180th_Legislative_District"
                   label="180th Legislative District">
       <Name>180th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-181st_Legislative_District"
                   label="181st Legislative District">
       <Name>181st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-182nd_Legislative_District"
                   label="182nd Legislative District">
       <Name>182nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-183rd_Legislative_District"
                   label="183rd Legislative District">
       <Name>183rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-184th_Legislative_District"
                   label="184th Legislative District">
       <Name>184th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-185th_Legislative_District"
                   label="185th Legislative District">
       <Name>185th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-186th_Legislative_District"
                   label="186th Legislative District">
       <Name>186th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-187th_Legislative_District"
                   label="187th Legislative District">
       <Name>187th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-188th_Legislative_District"
                   label="188th Legislative District">
       <Name>188th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-189th_Legislative_District"
                   label="189th Legislative District">
       <Name>189th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-18th_Congressional_District"
                   label="18th Congressional District">
       <Name>18th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-18th_Legislative_District"
                   label="18th Legislative District">
       <Name>18th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-190th_Legislative_District"
                   label="190th Legislative District">
       <Name>190th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-191st_Legislative_District"
                   label="191st Legislative District">
       <Name>191st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-192nd_Legislative_District"
                   label="192nd Legislative District">
       <Name>192nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-193rd_Legislative_District"
                   label="193rd Legislative District">
       <Name>193rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-194th_Legislative_District"
                   label="194th Legislative District">
       <Name>194th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-195th_Legislative_District"
                   label="195th Legislative District">
       <Name>195th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-196th_Legislative_District"
                   label="196th Legislative District">
       <Name>196th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-197th_Legislative_District"
                   label="197th Legislative District">
       <Name>197th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-198th_Legislative_District"
                   label="198th Legislative District">
       <Name>198th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-199th_Legislative_District"
                   label="199th Legislative District">
       <Name>199th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-19th_Legislative_District"
                   label="19th Legislative District">
       <Name>19th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-19th_Senatorial_District"
                   label="19th Senatorial District">
       <Name>19th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-1st_Congressional_District"
                   label="1st Congressional District">
       <Name>1st Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-1st_Legislative_District"
                   label="1st Legislative District">
       <Name>1st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-1st_Senatorial_District"
                   label="1st Senatorial District">
       <Name>1st Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-200th_Legislative_District"
                   label="200th Legislative District">
       <Name>200th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-201st_Legislative_District"
                   label="201st Legislative District">
       <Name>201st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-202nd_Legislative_District"
                   label="202nd Legislative District">
       <Name>202nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-203rd_Legislative_District"
                   label="203rd Legislative District">
       <Name>203rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-20th_Legislative_District"
                   label="20th Legislative District">
       <Name>20th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-21st_Legislative_District"
                   label="21st Legislative District">
       <Name>21st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-21st_Senatorial_District"
                   label="21st Senatorial District">
       <Name>21st Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-22nd_Legislative_District"
                   label="22nd Legislative District">
       <Name>22nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-23rd_Legislative_District"
                   label="23rd Legislative District">
       <Name>23rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-23rd_Senatorial_District"
                   label="23rd Senatorial District">
       <Name>23rd Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-24th_Legislative_District"
                   label="24th Legislative District">
       <Name>24th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-25th_Legislative_District"
                   label="25th Legislative District">
       <Name>25th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-25th_Senatorial_District"
                   label="25th Senatorial District">
       <Name>25th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-26th_Legislative_District"
                   label="26th Legislative District">
       <Name>26th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-27th_Legislative_District"
                   label="27th Legislative District">
       <Name>27th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-27th_Senatorial_District"
                   label="27th Senatorial District">
       <Name>27th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-28th_Legislative_District"
                   label="28th Legislative District">
       <Name>28th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-29th_Legislative_District"
                   label="29th Legislative District">
       <Name>29th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-29th_Senatorial_District"
                   label="29th Senatorial District">
       <Name>29th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-2nd_Congressional_District"
                   label="2nd Congressional District">
       <Name>2nd Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-2nd_Legislative_District"
                   label="2nd Legislative District">
       <Name>2nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-30th_Legislative_District"
                   label="30th Legislative District">
       <Name>30th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-31st_Legislative_District"
                   label="31st Legislative District">
       <Name>31st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-31st_Senatorial_District"
                   label="31st Senatorial District">
       <Name>31st Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-32nd_Legislative_District"
                   label="32nd Legislative District">
       <Name>32nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-33rd_Legislative_District"
                   label="33rd Legislative District">
       <Name>33rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-33rd_Senatorial_District"
                   label="33rd Senatorial District">
       <Name>33rd Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-34th_Legislative_District"
                   label="34th Legislative District">
       <Name>34th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-35th_Legislative_District"
                   label="35th Legislative District">
       <Name>35th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-35th_Senatorial_District"
                   label="35th Senatorial District">
       <Name>35th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-36th_Legislative_District"
                   label="36th Legislative District">
       <Name>36th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-37th_Legislative_District"
                   label="37th Legislative District">
       <Name>37th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-37th_Senatorial_District"
                   label="37th Senatorial District">
       <Name>37th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-38th_Legislative_District"
                   label="38th Legislative District">
       <Name>38th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-39th_Legislative_District"
                   label="39th Legislative District">
       <Name>39th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-39th_Senatorial_District"
                   label="39th Senatorial District">
       <Name>39th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-3rd_Congressional_District"
                   label="3rd Congressional District">
       <Name>3rd Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-3rd_Legislative_District"
                   label="3rd Legislative District">
       <Name>3rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-3rd_Senatorial_District"
                   label="3rd Senatorial District">
       <Name>3rd Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-40th_Legislative_District"
                   label="40th Legislative District">
       <Name>40th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-41st_Legislative_District"
                   label="41st Legislative District">
       <Name>41st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-41st_Senatorial_District"
                   label="41st Senatorial District">
       <Name>41st Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-42nd_Legislative_District"
                   label="42nd Legislative District">
       <Name>42nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-43rd_Legislative_District"
                   label="43rd Legislative District">
       <Name>43rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-43rd_Senatorial_District"
                   label="43rd Senatorial District">
       <Name>43rd Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-44th_Legislative_District"
                   label="44th Legislative District">
       <Name>44th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-45th_Legislative_District"
                   label="45th Legislative District">
       <Name>45th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-45th_Senatorial_District"
                   label="45th Senatorial District">
       <Name>45th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-46th_Legislative_District"
                   label="46th Legislative District">
       <Name>46th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-47th_Legislative_District"
                   label="47th Legislative District">
       <Name>47th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-47th_Senatorial_District"
                   label="47th Senatorial District">
       <Name>47th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-48th_Legislative_District"
                   label="48th Legislative District">
       <Name>48th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-49th_Legislative_District"
                   label="49th Legislative District">
       <Name>49th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-49th_Senatorial_District"
                   label="49th Senatorial District">
       <Name>49th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-4th_Congressional_District"
                   label="4th Congressional District">
       <Name>4th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-4th_Legislative_District"
                   label="4th Legislative District">
       <Name>4th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-50th_Legislative_District"
                   label="50th Legislative District">
       <Name>50th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-51st_Legislative_District"
                   label="51st Legislative District">
       <Name>51st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-52nd_Legislative_District"
                   label="52nd Legislative District">
       <Name>52nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-53rd_Legislative_District"
                   label="53rd Legislative District">
       <Name>53rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-54th_Legislative_District"
                   label="54th Legislative District">
       <Name>54th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-55th_Legislative_District"
                   label="55th Legislative District">
       <Name>55th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-56th_Legislative_District"
                   label="56th Legislative District">
       <Name>56th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-57th_Legislative_District"
                   label="57th Legislative District">
       <Name>57th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-58th_Legislative_District"
                   label="58th Legislative District">
       <Name>58th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-59th_Legislative_District"
                   label="59th Legislative District">
       <Name>59th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-5th_Congressional_District"
                   label="5th Congressional District">
       <Name>5th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-5th_Legislative_District"
                   label="5th Legislative District">
       <Name>5th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-5th_Senatorial_District"
                   label="5th Senatorial District">
       <Name>5th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-60th_Legislative_District"
                   label="60th Legislative District">
       <Name>60th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-61st_Legislative_District"
                   label="61st Legislative District">
       <Name>61st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-62nd_Legislative_District"
                   label="62nd Legislative District">
       <Name>62nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-63rd_Legislative_District"
                   label="63rd Legislative District">
       <Name>63rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-64th_Legislative_District"
                   label="64th Legislative District">
       <Name>64th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-65th_Legislative_District"
                   label="65th Legislative District">
       <Name>65th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-66th_Legislative_District"
                   label="66th Legislative District">
       <Name>66th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-67th_Legislative_District"
                   label="67th Legislative District">
       <Name>67th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-68th_Legislative_District"
                   label="68th Legislative District">
       <Name>68th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-69th_Legislative_District"
                   label="69th Legislative District">
       <Name>69th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-6th_Congressional_District"
                   label="6th Congressional District">
       <Name>6th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-6th_Legislative_District"
                   label="6th Legislative District">
       <Name>6th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-70th_Legislative_District"
                   label="70th Legislative District">
       <Name>70th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-71st_Legislative_District"
                   label="71st Legislative District">
       <Name>71st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-72nd_Legislative_District"
                   label="72nd Legislative District">
       <Name>72nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-73rd_Legislative_District"
                   label="73rd Legislative District">
       <Name>73rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-74th_Legislative_District"
                   label="74th Legislative District">
       <Name>74th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-75th_Legislative_District"
                   label="75th Legislative District">
       <Name>75th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-76th_Legislative_District"
                   label="76th Legislative District">
       <Name>76th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-77th_Legislative_District"
                   label="77th Legislative District">
       <Name>77th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-78th_Legislative_District"
                   label="78th Legislative District">
       <Name>78th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-79th_Legislative_District"
                   label="79th Legislative District">
       <Name>79th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-7th_Congressional_District"
                   label="7th Congressional District">
       <Name>7th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-7th_Legislative_District"
                   label="7th Legislative District">
       <Name>7th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-7th_Senatorial_District"
                   label="7th Senatorial District">
       <Name>7th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-80th_Legislative_District"
                   label="80th Legislative District">
       <Name>80th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-81st_Legislative_District"
                   label="81st Legislative District">
       <Name>81st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-82nd_Legislative_District"
                   label="82nd Legislative District">
       <Name>82nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-83rd_Legislative_District"
                   label="83rd Legislative District">
       <Name>83rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-84th_Legislative_District"
                   label="84th Legislative District">
       <Name>84th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-85th_Legislative_District"
                   label="85th Legislative District">
       <Name>85th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-86th_Legislative_District"
                   label="86th Legislative District">
       <Name>86th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-87th_Legislative_District"
                   label="87th Legislative District">
       <Name>87th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-88th_Legislative_District"
                   label="88th Legislative District">
       <Name>88th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-89th_Legislative_District"
                   label="89th Legislative District">
       <Name>89th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-8th_Congressional_District"
                   label="8th Congressional District">
       <Name>8th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-8th_Legislative_District"
                   label="8th Legislative District">
       <Name>8th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-90th_Legislative_District"
                   label="90th Legislative District">
       <Name>90th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-91st_Legislative_District"
                   label="91st Legislative District">
       <Name>91st Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-92nd_Legislative_District"
                   label="92nd Legislative District">
       <Name>92nd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-93rd_Legislative_District"
                   label="93rd Legislative District">
       <Name>93rd Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-94th_Legislative_District"
                   label="94th Legislative District">
       <Name>94th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-95th_Legislative_District"
                   label="95th Legislative District">
       <Name>95th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-96th_Legislative_District"
                   label="96th Legislative District">
       <Name>96th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-97th_Legislative_District"
                   label="97th Legislative District">
       <Name>97th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-98th_Legislative_District"
                   label="98th Legislative District">
       <Name>98th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-99th_Legislative_District"
                   label="99th Legislative District">
       <Name>99th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-9th_Congressional_District"
                   label="9th Congressional District">
       <Name>9th Congressional District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-9th_Legislative_District"
                   label="9th Legislative District">
       <Name>9th Legislative District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district"
+   <ReportingUnit type="congressional"
                   id="district-9th_Senatorial_District"
                   label="9th Senatorial District">
       <Name>9th Senatorial District</Name>
    </ReportingUnit>
-   <ReportingUnit type="district" id="district-Statewide" label="Statewide">
+   <ReportingUnit type="congressional" id="district-Statewide" label="Statewide">
       <Name>Statewide</Name>
    </ReportingUnit>
    <Party id="party-Abolitionist_Society_Pennsylvania"
