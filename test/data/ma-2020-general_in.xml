@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../electiondefinition.rnc" type="application/relax-ng-compact-syntax"?>
+<ElectionDefinition type="general" scope="massachussetts">
+    <Name>State Election</Name>
+    <StartDate>2020-11-03</StartDate>
+    <EndDate>2020-11-03</EndDate>
+    <ReportingUnit type="country" id="usa" label="USA">
+        <Name>United States</Name>
+    </ReportingUnit>
+    <ReportingUnit type="state" id="massachussetts" label="MA">
+        <Name>State of Massachussetts</Name>
+    </ReportingUnit>
+    <ReportingUnit type="county" id="middlesex" label="Middlesex">
+        <Name>Middlesex County</Name>
+    </ReportingUnit>
+    <ReportingUnit type="other" id="district-6" label="District 6">
+        <Name>Sixth District</Name>
+    </ReportingUnit>
+    <ReportingUnit type="other" id="district-5" label="District 5">
+        <Name>Fifth Middlesex District</Name>
+    </ReportingUnit>
+    <ReportingUnit type="other" id="district-30" label="District 30">
+        <Name>Thirtieth Middlesex District</Name>
+    </ReportingUnit>
+    <ReportingUnit type="town" id="reading" label="Reading">
+        <Name>Town of Reading</Name>
+    </ReportingUnit>
+    <ReportingUnit type="combined precinct" id="pct2-5" label="Pcts 2-5">
+        <Name>Precincts 2-5</Name>
+    </ReportingUnit>
+    <Party id="democratic" label="Democratic">
+        <name>Democratic Party</name>
+    </Party>
+    <Party id="green-rainbow" label="Green-Rainbow">
+        <name>Green and Rainbow Parties</name>
+    </Party>
+    <Party id="libertarian" label="Libertarian">
+        <name>Libertarian Party</name>
+    </Party>
+    <Party id="republican" label="Republican">
+        <name>Republican Party</name>
+    </Party>
+    <CandidateContest scope="usa" id="president" label="Electors of President and Vice President">
+        <Candidate id="BidenHarris" label="Biden and Harris" party="democratic">
+            <name>Biden and Harris</name>
+        </Candidate>
+        <Candidate id="HawkinsWalker" label="Hawkins and Walker" party="green-rainbow">
+            <name>Hawkins and Walker</name>
+        </Candidate>
+        <Candidate id="JorgensenCohen" label="Jorgensen and Cohen" party="libertarian">
+            <name>Jorgensen and Cohen</name>
+        </Candidate>
+        <Candidate id="TrumpPence" label="Trump and Pence" party="republican">
+            <name>Jorgensen and Cohen</name>
+        </Candidate>
+        <Candidate id="writein_president" label="President writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest scope="massachussetts" id="senator" label="Senator in Congress">
+        <Candidate id="Markey" label="Markey" party="democratic">
+            <name>Edward J. Markey</name>
+        </Candidate>
+        <Candidate id="OConnor" label="O'Connor" party="republican">
+            <name>Edward J. Markey</name>
+        </Candidate>
+        <Candidate id="writein_senator" label="Senator writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest scope="district-6" id="representative" label="Representative in Congress">
+        <Candidate id="Moulton" label="Moulton" party="democratic">
+            <name>Seth Moulton</name>
+        </Candidate>
+        <Candidate id="Moran" label="Moran" party="republican">
+            <name>John Paul Moran</name>
+        </Candidate>
+        <Candidate id="writein_representative" label="Representative writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest scope="district-6" id="councillor" label="Councillor">
+        <Candidate id="Kennedy" label="Kennedy" party="democratic">
+            <name>Terrence W. Kennedy</name>
+        </Candidate>
+        <Candidate id="writein_councillor" label="Councillor writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest scope="district-5" id="senator-in-court" label="Senator in General Court">
+        <Candidate id="Lewis" label="Lewis" party="democratic">
+            <name>Jason M. Lewis</name>
+        </Candidate>
+        <Candidate id="writein_senator-in-court" label="Senator in Court writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <CandidateContest scope="district-30" id="representative-in-court" label="Representative in General Court">
+        <Candidate id="Haggarty" label="Haggarty" party="democratic">
+            <name>Richard M. Haggarty</name>
+        </Candidate>
+        <Candidate id="writein_representative-in-court" label="Representative in Court writein" />
+        <VotesAllowed>1</VotesAllowed>
+    </CandidateContest>
+    <BallotMeasureContest scope="massachussetts" id="ballot_" label="">
+        <description></description>
+    </BallotMeasureContest>
+</ElectionDefinition>

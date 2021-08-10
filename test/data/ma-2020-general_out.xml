@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<ElectionReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://itl.nist.gov/ns/voting/1500-100/v2" xsi:schemaLocation="http://itl.nist.gov/ns/voting/1500-100/v2 ../NIST_V2_election_results_reporting.xsd">
+  <Election>
+    <Candidate ObjectId="BidenHarris">
+      <BallotName>
+        <Text Language="en">Biden and Harris</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="HawkinsWalker">
+      <BallotName>
+        <Text Language="en">Hawkins and Walker</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="JorgensenCohen">
+      <BallotName>
+        <Text Language="en">Jorgensen and Cohen</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="TrumpPence">
+      <BallotName>
+        <Text Language="en">Jorgensen and Cohen</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_president">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Markey">
+      <BallotName>
+        <Text Language="en">Edward J. Markey</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="OConnor">
+      <BallotName>
+        <Text Language="en">Edward J. Markey</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_senator">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Moulton">
+      <BallotName>
+        <Text Language="en">Seth Moulton</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Moran">
+      <BallotName>
+        <Text Language="en">John Paul Moran</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_representative">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Kennedy">
+      <BallotName>
+        <Text Language="en">Terrence W. Kennedy</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_councillor">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Lewis">
+      <BallotName>
+        <Text Language="en">Jason M. Lewis</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_senator-in-court">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="Haggarty">
+      <BallotName>
+        <Text Language="en">Richard M. Haggarty</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="writein_representative-in-court">
+      <BallotName>
+        <Text Language="en"/>
+      </BallotName>
+    </Candidate>
+    <Contest xsi:type="CandidateContest" ObjectId="president">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm30">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>BidenHarris</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm32">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>HawkinsWalker</CandidateIds>
+        <EndorsementPartyIds>green-rainbow</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm34">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>JorgensenCohen</CandidateIds>
+        <EndorsementPartyIds>libertarian</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm36">
+        <SequenceOrder>4</SequenceOrder>
+        <CandidateIds>TrumpPence</CandidateIds>
+        <EndorsementPartyIds>republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm38">
+        <SequenceOrder>5</SequenceOrder>
+        <CandidateIds>writein_president</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>usa</ElectionDistrictId>
+      <Name>Electors of President and Vice President</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="senator">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm41">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>Markey</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm43">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>OConnor</CandidateIds>
+        <EndorsementPartyIds>republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm45">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>writein_senator</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>massachussetts</ElectionDistrictId>
+      <Name>Senator in Congress</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="representative">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm48">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>Moulton</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm50">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>Moran</CandidateIds>
+        <EndorsementPartyIds>republican</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm52">
+        <SequenceOrder>3</SequenceOrder>
+        <CandidateIds>writein_representative</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>district-6</ElectionDistrictId>
+      <Name>Representative in Congress</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="councillor">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm55">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>Kennedy</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm57">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>writein_councillor</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>district-6</ElectionDistrictId>
+      <Name>Councillor</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="senator-in-court">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm60">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>Lewis</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm62">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>writein_senator-in-court</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>district-5</ElectionDistrictId>
+      <Name>Senator in General Court</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="CandidateContest" ObjectId="representative-in-court">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm65">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>Haggarty</CandidateIds>
+        <EndorsementPartyIds>democratic</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm67">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>writein_representative-in-court</CandidateIds>
+      </ContestSelection>
+      <ElectionDistrictId>district-30</ElectionDistrictId>
+      <Name>Representative in General Court</Name>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="BallotMeasureContest" ObjectId="idm69">
+      <ElectionDistrictId>massachussetts</ElectionDistrictId>
+      <Name/>
+    </Contest>
+    <ElectionScopeId>massachussetts</ElectionScopeId>
+    <Name>
+      <Text Language="en">State Election</Text>
+    </Name>
+    <StartDate>2020-11-03</StartDate>
+    <EndDate>2020-11-03</EndDate>
+    <Type>general</Type>
+  </Election>
+  <Format>summary-contest</Format>
+  <GeneratedDate>2018-01-29T00:00:00Z</GeneratedDate>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="usa">
+    <Name>
+      <Text Language="en">United States</Text>
+    </Name>
+    <Type>country</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="massachussetts">
+    <Name>
+      <Text Language="en">State of Massachussetts</Text>
+    </Name>
+    <Type>state</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="middlesex">
+    <Name>
+      <Text Language="en">Middlesex County</Text>
+    </Name>
+    <Type>county</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="district-6">
+    <Name>
+      <Text Language="en">Sixth District</Text>
+    </Name>
+    <Type>other</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="district-5">
+    <Name>
+      <Text Language="en">Fifth Middlesex District</Text>
+    </Name>
+    <Type>other</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="district-30">
+    <Name>
+      <Text Language="en">Thirtieth Middlesex District</Text>
+    </Name>
+    <Type>other</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="reading">
+    <Name>
+      <Text Language="en">Town of Reading</Text>
+    </Name>
+    <Type>town</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="pct2-5">
+    <Name>
+      <Text Language="en">Precincts 2-5</Text>
+    </Name>
+    <Type>combined precinct</Type>
+  </GpUnit>
+  <Issuer>State</Issuer>
+  <IssuerAbbreviation>US</IssuerAbbreviation>
+  <Party ObjectId="democratic">
+    <Name>
+      <Text Language="en">Democratic Party</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="green-rainbow">
+    <Name>
+      <Text Language="en">Green and Rainbow Parties</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="libertarian">
+    <Name>
+      <Text Language="en">Libertarian Party</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="republican">
+    <Name>
+      <Text Language="en">Republican Party</Text>
+    </Name>
+  </Party>
+  <Person ObjectId="idm30">
+    <FullName>
+      <Text Language="en">Biden and Harris</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm32">
+    <FullName>
+      <Text Language="en">Hawkins and Walker</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm34">
+    <FullName>
+      <Text Language="en">Jorgensen and Cohen</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm36">
+    <FullName>
+      <Text Language="en">Jorgensen and Cohen</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm38">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm41">
+    <FullName>
+      <Text Language="en">Edward J. Markey</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm43">
+    <FullName>
+      <Text Language="en">Edward J. Markey</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm45">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm48">
+    <FullName>
+      <Text Language="en">Seth Moulton</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm50">
+    <FullName>
+      <Text Language="en">John Paul Moran</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm52">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm55">
+    <FullName>
+      <Text Language="en">Terrence W. Kennedy</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm57">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm60">
+    <FullName>
+      <Text Language="en">Jason M. Lewis</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm62">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm65">
+    <FullName>
+      <Text Language="en">Richard M. Haggarty</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm67">
+    <FullName>
+      <Text Language="en"/>
+    </FullName>
+  </Person>
+  <SequenceStart>1</SequenceStart>
+  <SequenceEnd>1</SequenceEnd>
+  <Status>pre-election</Status>
+  <VendorApplicationId>ttv</VendorApplicationId>
+</ElectionReport>
