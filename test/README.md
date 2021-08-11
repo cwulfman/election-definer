@@ -43,6 +43,13 @@ Tests are named as follows:
 
 ## Notes
 
+### Test files copied from examples
+
+Test files are duplicates of the examples, for a couple of reasons:
+
+- Test file names follow the naming convention that the tests depend on.
+- Allows keeping older test cases around even if the examples change.
+
 ### Comparing XML elements in tests
 
 - Comparisons of XML trees are done with strings. LXML doesn't provide a single 
