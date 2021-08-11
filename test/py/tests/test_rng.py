@@ -1,3 +1,5 @@
+# RelaxNG validation of ElectionDefinition files.
+
 import lxml.etree
 
 import pytest
@@ -12,12 +14,14 @@ RNG_FILE = Paths.DATA / "electiondefinition.rng"
 
 @pytest.fixture(params = load_xml_documents(Paths.INPUTS, "*_in.xml"))
 def xml_input_document(request):
+    """Source Election Definition XML to validate with RelaxNG."""
     document = request.param
     return document
 
 
 @pytest.fixture
 def rng_schema():
+    """RelaxNG schema used to validate ElectionDefinition."""
     file = RNG_FILE
     schema = load_relaxng_schema(file)
     return schema

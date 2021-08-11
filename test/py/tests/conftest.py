@@ -13,6 +13,7 @@ _HERE = Path(__file__)
 _ROOT_PATH = (_HERE.parent / Path("../../..")).resolve()
 
 
+# Path constants
 class Paths:
 
     ROOT = _ROOT_PATH
@@ -33,6 +34,7 @@ def load_xml_document(input_file):
 
 
 def load_xml_documents(input_path, file_pattern):
+    """Load a sequence of XML documents from a set of files."""
     for file in sorted(input_path.glob(file_pattern)):
         xml = load_xml_document(file)
         yield xml
