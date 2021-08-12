@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<ElectionReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://itl.nist.gov/ns/voting/1500-100/v2" xsi:schemaLocation="http://itl.nist.gov/ns/voting/1500-100/v2 ../NIST_V2_election_results_reporting.xsd">
+  <Election>
+    <BallotStyle>
+      <GpUnitIds>bedrock-precinct gadget-county</GpUnitIds>
+      <OrderedContent xsi:type="OrderedHeader">
+        <HeaderId>idm33</HeaderId>
+        <OrderedContent xsi:type="OrderedContest">
+          <ContestId>contest1</ContestId>
+        </OrderedContent>
+      </OrderedContent>
+      <OrderedContent xsi:type="OrderedHeader">
+        <HeaderId>idm36</HeaderId>
+        <OrderedContent xsi:type="OrderedContest">
+          <ContestId>ballotmeasure1</ContestId>
+        </OrderedContent>
+      </OrderedContent>
+    </BallotStyle>
+    <Candidate ObjectId="candidate1">
+      <BallotName>
+        <Text Language="en">Jane Jetson</Text>
+      </BallotName>
+    </Candidate>
+    <Candidate ObjectId="candidate2">
+      <BallotName>
+        <Text Language="en">Spenser Spacely</Text>
+      </BallotName>
+    </Candidate>
+    <Contest xsi:type="CandidateContest" ObjectId="contest1">
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm6">
+        <SequenceOrder>1</SequenceOrder>
+        <CandidateIds>candidate1</CandidateIds>
+        <EndorsementPartyIds>lepton</EndorsementPartyIds>
+      </ContestSelection>
+      <ContestSelection xsi:type="CandidateSelection" ObjectId="contest-idm8">
+        <SequenceOrder>2</SequenceOrder>
+        <CandidateIds>candidate2</CandidateIds>
+        <EndorsementPartyIds>hadron</EndorsementPartyIds>
+      </ContestSelection>
+      <ElectionDistrictId>orbit-city-precinct</ElectionDistrictId>
+      <Name>Mayor of Orbit City</Name>
+      <VoteVariation>n-of-m</VoteVariation>
+      <VotesAllowed>1</VotesAllowed>
+    </Contest>
+    <Contest xsi:type="BallotMeasureContest" ObjectId="idm12">
+      <ElectionDistrictId>gadget-county</ElectionDistrictId>
+      <Name>Shall we do this thing?</Name>
+    </Contest>
+    <ElectionScopeId>gadget-county</ElectionScopeId>
+    <Name>
+      <Text Language="en">Gadget County Elections</Text>
+    </Name>
+    <StartDate>2030-06-01</StartDate>
+    <EndDate>2030-06-15</EndDate>
+    <Type>general</Type>
+  </Election>
+  <Format>summary-contest</Format>
+  <GeneratedDate>2018-01-29T00:00:00Z</GeneratedDate>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="gadget-county">
+    <Name>
+      <Text Language="en">Gadget County</Text>
+    </Name>
+    <Type>county</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="bedrock-precinct">
+    <Name>
+      <Text Language="en">Bedrock Precinct</Text>
+    </Name>
+    <Type>precinct</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingUnit" ObjectId="orbit-city-precinct">
+    <Name>
+      <Text Language="en">Orbit City</Text>
+    </Name>
+    <Type>precinct</Type>
+  </GpUnit>
+  <GpUnit xsi:type="ReportingDevice" ObjectId="ballot-marker-1">
+    <DeviceClass>
+      <Manufacturer>Trust the Vote</Manufacturer>
+      <Model>git-c3cd6f4f-20210601</Model>
+      <Type>bmd</Type>
+    </DeviceClass>
+    <SerialNumber>33</SerialNumber>
+  </GpUnit>
+  <Header ObjectId="idm33">
+    <Name>
+      <Text Language="en">Candidate Contests</Text>
+    </Name>
+  </Header>
+  <Header ObjectId="idm36">
+    <Name>
+      <Text Language="en">Ballot Measures</Text>
+    </Name>
+  </Header>
+  <Issuer>State</Issuer>
+  <IssuerAbbreviation>US</IssuerAbbreviation>
+  <Party ObjectId="lepton">
+    <Name>
+      <Text Language="en">Lepton Party</Text>
+    </Name>
+  </Party>
+  <Party ObjectId="hadron">
+    <Name>
+      <Text Language="en">Hadron Party</Text>
+    </Name>
+  </Party>
+  <Person ObjectId="idm6">
+    <FullName>
+      <Text Language="en">Jane Jetson</Text>
+    </FullName>
+  </Person>
+  <Person ObjectId="idm8">
+    <FullName>
+      <Text Language="en">Spenser Spacely</Text>
+    </FullName>
+  </Person>
+  <SequenceStart>1</SequenceStart>
+  <SequenceEnd>1</SequenceEnd>
+  <Status>pre-election</Status>
+  <VendorApplicationId>ttv</VendorApplicationId>
+</ElectionReport>

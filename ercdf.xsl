@@ -162,7 +162,7 @@
     </xsl:template>
 
     <xsl:template match="ReportingDevice">
-        <GpUnit xsi:type="ReportingDevice">
+        <GpUnit xsi:type="ReportingDevice" ObjectId="{@id}">
             <DeviceClass>
                 <Manufacturer>
                     <xsl:value-of select="DeviceClass/Manufacturer"/>

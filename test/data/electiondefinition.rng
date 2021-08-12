@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="ElectionDefinition">
+      <ref name="election-definition-content"/>
+    </element>
+  </start>
+  <define name="election-definition-content">
+    <interleave>
+      <element name="Name">
+        <text/>
+      </element>
+      <attribute name="type">
+        <ref name="election-types"/>
+      </attribute>
+      <attribute name="scope">
+        <data type="IDREF"/>
+      </attribute>
+      <element name="StartDate">
+        <text/>
+      </element>
+      <element name="EndDate">
+        <text/>
+      </element>
+      <zeroOrMore>
+        <element name="CandidateContest">
+          <ref name="candidate-contest-content"/>
+        </element>
+      </zeroOrMore>
+      <zeroOrMore>
+        <element name="BallotMeasureContest">
+          <ref name="ballot-measure-contest-content"/>
+        </element>
+      </zeroOrMore>
+      <zeroOrMore>
+        <element name="Party">
+          <ref name="party-content"/>
+        </element>
+      </zeroOrMore>
+      <zeroOrMore>
+        <element name="ReportingUnit">
+          <ref name="reporting-unit-content"/>
+        </element>
+      </zeroOrMore>
+      <zeroOrMore>
+        <element name="ReportingDevice">
+          <ref name="reporting-device-content"/>
+        </element>
+      </zeroOrMore>
+      <zeroOrMore>
+        <element name="BallotStyle">
+          <ref name="ballotstyle-content"/>
+        </element>
+      </zeroOrMore>
+    </interleave>
+  </define>
+  <define name="election-types">
+    <choice>
+      <value>general</value>
+      <value>partisan-primary-closed</value>
+      <value>partisan-primary-open</value>
+      <value>primary</value>
+      <value>runoff</value>
+      <value>special</value>
+      <value>other</value>
+    </choice>
+  </define>
+  <define name="reporting-unit-types">
+    <choice>
+      <value>ballot batch</value>
+      <value>ballot style area</value>
+      <value>borough</value>
+      <value>city</value>
+      <value>city council</value>
+      <value>combined-precinct</value>
+      <value>congressional</value>
+      <value>county</value>
+      <value>country</value>
+      <value>county council</value>
+      <value>drop box</value>
+      <value>judicial</value>
+      <value>municipality</value>
+      <value>polling-place</value>
+      <value>precinct</value>
+      <value>school</value>
+      <value>special</value>
+      <value>split precinct</value>
+      <value>state</value>
+      <value>state house</value>
+      <value>state senate</value>
+      <value>town</value>
+      <value>township</value>
+      <value>utility</value>
+      <value>village</value>
+      <value>vote center</value>
+      <value>ward</value>
+      <value>water</value>
+      <value>other</value>
+    </choice>
+  </define>
+  <define name="candidate-contest-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="scope">
+      <data type="IDREF"/>
+    </attribute>
+    <attribute name="label"/>
+    <oneOrMore>
+      <element name="Candidate">
+        <ref name="candidate-content"/>
+      </element>
+    </oneOrMore>
+    <optional>
+      <element name="VoteVariation">
+        <text/>
+      </element>
+    </optional>
+    <element name="VotesAllowed">
+      <text/>
+    </element>
+  </define>
+  <define name="ballot-measure-contest-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="scope">
+      <data type="IDREF"/>
+    </attribute>
+    <attribute name="label"/>
+    <element name="description">
+      <text/>
+    </element>
+  </define>
+  <define name="candidate-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="label"/>
+    <optional>
+      <attribute name="party">
+        <data type="IDREF"/>
+      </attribute>
+    </optional>
+    <optional>
+      <element name="name">
+        <ref name="name-content"/>
+      </element>
+    </optional>
+  </define>
+  <define name="reporting-unit-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="type">
+      <ref name="reporting-unit-types"/>
+    </attribute>
+    <attribute name="label"/>
+    <element name="Name">
+      <ref name="name-content"/>
+    </element>
+  </define>
+  <define name="reporting-device-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="label"/>
+    <element name="DeviceClass">
+      <element name="Manufacturer">
+        <text/>
+      </element>
+      <element name="Model">
+        <text/>
+      </element>
+      <element name="Type">
+        <text/>
+      </element>
+    </element>
+    <element name="SerialNumber">
+      <text/>
+    </element>
+  </define>
+  <define name="name-content">
+    <text/>
+  </define>
+  <define name="party-content">
+    <attribute name="id">
+      <data type="ID"/>
+    </attribute>
+    <attribute name="label"/>
+    <element name="name">
+      <text/>
+    </element>
+  </define>
+  <define name="ballotstyle-content">
+    <attribute name="label"/>
+    <element name="GpUnitIds">
+      <ref name="gpunit-ids-content"/>
+    </element>
+    <oneOrMore>
+      <element name="Section">
+        <ref name="section-content"/>
+      </element>
+    </oneOrMore>
+  </define>
+  <define name="gpunit-ids-content">
+    <attribute name="ids">
+      <data type="IDREFS"/>
+    </attribute>
+  </define>
+  <define name="section-content">
+    <element name="Header">
+      <text/>
+    </element>
+    <oneOrMore>
+      <element name="ContestIds">
+        <ref name="contest-ids-content"/>
+      </element>
+    </oneOrMore>
+  </define>
+  <define name="contest-ids-content">
+    <attribute name="ids">
+      <data type="IDREFS"/>
+    </attribute>
+  </define>
+</grammar>
